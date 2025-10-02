@@ -31,11 +31,13 @@ Before creating bug reports, please check existing issues. When creating a bug r
 - **Environment details** (OS, Node version, browser)
 
 **Template:**
+
 ```markdown
 **Bug Description:**
 A clear description of the bug
 
 **Steps to Reproduce:**
+
 1. Go to '...'
 2. Click on '...'
 3. See error
@@ -47,6 +49,7 @@ What should happen
 What actually happens
 
 **Environment:**
+
 - OS: [e.g., Windows 11]
 - Node: [e.g., v18.0.0]
 - Browser: [e.g., Chrome 120]
@@ -123,23 +126,28 @@ cd frontend && npm start
 
 ```markdown
 ## Description
+
 Brief description of changes
 
 ## Type of Change
+
 - [ ] Bug fix
 - [ ] New feature
 - [ ] Breaking change
 - [ ] Documentation update
 
 ## Testing
+
 - [ ] Tested locally
 - [ ] Added new tests (if applicable)
 - [ ] All tests passing
 
 ## Screenshots (if applicable)
+
 [Add screenshots here]
 
 ## Related Issues
+
 Closes #[issue number]
 ```
 
@@ -155,52 +163,52 @@ Closes #[issue number]
 ### JavaScript/React
 
 **Use ES6+ syntax:**
+
 ```javascript
 // ✅ Good
 const fetchData = async () => {
   try {
-    const response = await api.get('/data');
+    const response = await api.get("/data");
     return response.data;
   } catch (error) {
-    console.error('Error:', error);
+    console.error("Error:", error);
   }
 };
 
 // ❌ Avoid
 function fetchData() {
-  return api.get('/data')
-    .then(function(response) {
+  return api
+    .get("/data")
+    .then(function (response) {
       return response.data;
     })
-    .catch(function(error) {
-      console.log('Error:', error);
+    .catch(function (error) {
+      console.log("Error:", error);
     });
 }
 ```
 
 **Component structure:**
+
 ```javascript
 // ✅ Good - Functional components with hooks
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from "react";
 
 const MyComponent = ({ prop1, prop2 }) => {
   const [state, setState] = useState(initialValue);
-  
+
   useEffect(() => {
     // Effect logic
   }, [dependencies]);
-  
-  return (
-    <div>
-      {/* JSX */}
-    </div>
-  );
+
+  return <div>{/* JSX */}</div>;
 };
 
 export default MyComponent;
 ```
 
 **Naming conventions:**
+
 - Components: `PascalCase` (e.g., `UserProfile.js`)
 - Functions: `camelCase` (e.g., `fetchUserData`)
 - Constants: `UPPER_SNAKE_CASE` (e.g., `API_BASE_URL`)
@@ -209,6 +217,7 @@ export default MyComponent;
 ### Code Organization
 
 **File structure:**
+
 ```
 src/
 ├── components/        # Reusable components
@@ -223,45 +232,48 @@ src/
 ```
 
 **Import order:**
+
 ```javascript
 // 1. External libraries
-import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-import axios from 'axios';
+import React, { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
+import axios from "axios";
 
 // 2. Internal components
-import Header from '../components/Header';
-import Footer from '../components/Footer';
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 // 3. Hooks and utilities
-import { useAuth } from '../hooks/useAuth';
-import { formatDate } from '../utils/helpers';
+import { useAuth } from "../hooks/useAuth";
+import { formatDate } from "../utils/helpers";
 
 // 4. Styles
-import './styles.css';
+import "./styles.css";
 ```
 
 ### Error Handling
 
 **Always handle errors:**
+
 ```javascript
 // ✅ Good
 try {
-  const response = await api.post('/data', payload);
+  const response = await api.post("/data", payload);
   return response.data;
 } catch (error) {
-  console.error('API Error:', error);
-  throw new Error(error.response?.data?.message || 'Operation failed');
+  console.error("API Error:", error);
+  throw new Error(error.response?.data?.message || "Operation failed");
 }
 
 // ❌ Avoid - no error handling
-const response = await api.post('/data', payload);
+const response = await api.post("/data", payload);
 return response.data;
 ```
 
 ### Comments
 
 **Write meaningful comments:**
+
 ```javascript
 // ✅ Good - explains why, not what
 // Debounce search to avoid excessive API calls
@@ -386,6 +398,7 @@ npm test      # If available
 ## 🏆 Recognition
 
 Contributors will be:
+
 - Listed in the project's contributors page
 - Mentioned in release notes
 - Acknowledged in the README (for significant contributions)
@@ -400,6 +413,7 @@ Contributors will be:
 ## 📞 Contact
 
 For questions or concerns, please:
+
 - Open a GitHub issue
 - Contact maintainers directly
 - Join our community chat (if available)

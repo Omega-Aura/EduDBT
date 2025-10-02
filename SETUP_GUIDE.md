@@ -60,11 +60,13 @@ npm install
 ```
 
 Create `.env` file:
+
 ```bash
 cp .env.example .env
 ```
 
 Edit `backend/.env`:
+
 ```properties
 MONGODB_URI=mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@cluster.mongodb.net/aadhaar-dbt?retryWrites=true&w=majority
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
@@ -72,6 +74,7 @@ JWT_SECRET=change-this-to-a-random-string-min-32-chars
 ```
 
 **Generate a secure JWT_SECRET:**
+
 ```bash
 # Node.js
 node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
@@ -87,6 +90,7 @@ node seedData.js
 ```
 
 Expected output:
+
 ```
 ✅ Database connected
 ✅ 11 articles created
@@ -105,6 +109,7 @@ npm run dev
 ```
 
 You should see:
+
 ```
 Server running on port 5000
 MongoDB connected
@@ -120,11 +125,13 @@ npm install
 ```
 
 Create `.env` file:
+
 ```bash
 cp .env.example .env
 ```
 
 The default values should work:
+
 ```properties
 REACT_APP_API_URL=http://localhost:5000/api
 REACT_APP_ENVIRONMENT=development
@@ -152,24 +159,30 @@ You should see JSON response with articles.
 ### Test Frontend
 
 1. **Home Page**: http://localhost:3000
+
    - Should show welcome page with navigation
 
 2. **Register**: http://localhost:3000/register
+
    - Create a new student account
    - Fill all required fields
 
 3. **Login**: http://localhost:3000/login
+
    - Use your newly created account
    - Or use admin: `admin@dbtaware.gov.in` / `Admin@123`
 
 4. **Dashboard**: http://localhost:3000/dashboard
+
    - Should show 0 articles read (for new users)
    - Progress bar at 0%
 
 5. **Learning Center**: http://localhost:3000/learning-center
+
    - Should display 11 articles
 
 6. **Open an Article**: Click any article
+
    - Article should open
    - After reading, dashboard should show +1 article
 
@@ -207,6 +220,7 @@ lsof -ti:5000 | xargs kill -9
 Press `n` when asked "Would you like to run the app on another port instead?"
 
 Then change port:
+
 ```bash
 # Windows PowerShell
 $env:PORT=3001; npm start
@@ -216,6 +230,7 @@ PORT=3001 npm start
 ```
 
 Update `backend/.env`:
+
 ```properties
 CORS_ORIGIN=http://localhost:3001
 ```
@@ -223,23 +238,27 @@ CORS_ORIGIN=http://localhost:3001
 ### Chatbot not responding
 
 **Check Gemini API Key:**
+
 1. Verify `GEMINI_API_KEY` in `backend/.env`
 2. Test API key: https://aistudio.google.com/app/apikey
 3. Make sure you haven't exceeded free tier limits
 
 **Check browser console:**
+
 - Press F12 → Console tab
 - Look for red error messages
 
 ### Articles not showing
 
 **Re-seed database:**
+
 ```bash
 cd backend
 node seedData.js
 ```
 
 **Check MongoDB connection:**
+
 ```bash
 # Test connection
 node -e "require('mongoose').connect(process.env.MONGODB_URI || 'YOUR_MONGODB_URI').then(() => console.log('✅ Connected')).catch(err => console.log('❌ Error:', err.message))"
@@ -300,11 +319,13 @@ ifconfig
 2. Look for IPv4 address (e.g., 192.168.1.100)
 
 3. Update `backend/.env`:
+
 ```properties
 CORS_ORIGIN=http://192.168.1.100:3000
 ```
 
 4. Update `frontend/.env`:
+
 ```properties
 REACT_APP_API_URL=http://192.168.1.100:5000/api
 ```
@@ -318,6 +339,7 @@ REACT_APP_API_URL=http://192.168.1.100:5000/api
 ### Check Logs
 
 **Backend logs:**
+
 ```bash
 cd backend
 npm run dev
@@ -325,19 +347,20 @@ npm run dev
 ```
 
 **Frontend logs:**
+
 - Open browser
 - Press F12 → Console tab
 - Look for errors (red messages)
 
 ### Common Solutions
 
-| Issue | Solution |
-|-------|----------|
-| White screen | Check browser console for errors |
-| API not responding | Verify backend is running on port 5000 |
-| Login fails | Check MongoDB connection, verify user exists |
-| Chatbot error | Check Gemini API key, check rate limits |
-| Translations missing | Check `frontend/public/locales/` folder |
+| Issue                | Solution                                     |
+| -------------------- | -------------------------------------------- |
+| White screen         | Check browser console for errors             |
+| API not responding   | Verify backend is running on port 5000       |
+| Login fails          | Check MongoDB connection, verify user exists |
+| Chatbot error        | Check Gemini API key, check rate limits      |
+| Translations missing | Check `frontend/public/locales/` folder      |
 
 ### Still Need Help?
 

@@ -1,14 +1,8 @@
 # 🎓 Aadhaar DBT Awareness Platform# Aadhaar DBT Awareness Platform
 
-
-
 A comprehensive MERN Stack web application designed to help students understand and navigate Aadhaar linking, DBT (Direct Benefit Transfer) enabling, and scholarship applications.A comprehensive MERN Stack web application designed to educate students about Aadhaar-DBT (Direct Benefit Transfer) integration for seamless scholarship disbursements.
 
-
-
 ## 📋 Table of Contents## 🎯 Problem Statement
-
-
 
 - [Features](#features)Many students are unaware of the distinction between Aadhaar-linked and Direct Benefit Transfer (DBT) enabled Aadhaar-seeded bank accounts, leading to delays in scholarship disbursements and challenges in accessing government benefits.
 
@@ -32,11 +26,7 @@ A comprehensive MERN Stack web application designed to help students understand 
 
 - [License](#license)- **24/7 Support**: Help and troubleshooting assistance
 
-
-
 ## ✨ Features## 🛠️ Technology Stack
-
-
 
 ### For Students### Backend
 
@@ -57,8 +47,6 @@ A comprehensive MERN Stack web application designed to help students understand 
 - 📈 **Progress Tracking** - Real-time tracking of articles read and quiz completion- **Helmet** for security headers
 
 - 🔔 **Notifications** - Important alerts about scholarships and deadlines- **Rate limiting** for API protection
-
-
 
 ### For Administrators### Frontend
 
@@ -88,55 +76,55 @@ A comprehensive MERN Stack web application designed to help students understand 
 
 - **Axios** - HTTP clientaadhaar-dbt-platform/
 
-- **Formik + Yup** - Form handling and validation├── backend/                    # Node.js Express API
+- **Formik + Yup** - Form handling and validation├── backend/ # Node.js Express API
 
-- **i18next** - Internationalization (13 languages)│   ├── src/
+- **i18next** - Internationalization (13 languages)│ ├── src/
 
-- **React Icons** - Icon library│   │   ├── config/            # Database and JWT configuration
+- **React Icons** - Icon library│ │ ├── config/ # Database and JWT configuration
 
-│   │   ├── controllers/       # Route controllers
+│ │ ├── controllers/ # Route controllers
 
-### Backend│   │   ├── middleware/        # Authentication, validation, error handling
+### Backend│ │ ├── middleware/ # Authentication, validation, error handling
 
-- **Node.js** - Runtime environment│   │   ├── models/            # MongoDB schemas
+- **Node.js** - Runtime environment│ │ ├── models/ # MongoDB schemas
 
-- **Express.js** - Web framework│   │   ├── routes/            # API routes
+- **Express.js** - Web framework│ │ ├── routes/ # API routes
 
-- **MongoDB** - Database (MongoDB Atlas)│   │   └── app.js            # Express app configuration
+- **MongoDB** - Database (MongoDB Atlas)│ │ └── app.js # Express app configuration
 
-- **Mongoose** - ODM for MongoDB│   ├── package.json
+- **Mongoose** - ODM for MongoDB│ ├── package.json
 
-- **JWT** - Authentication│   └── server.js             # Entry point
+- **JWT** - Authentication│ └── server.js # Entry point
 
 - **bcryptjs** - Password hashing│
 
-- **Google Gemini AI** - Chatbot intelligence├── frontend/                  # React.js application
+- **Google Gemini AI** - Chatbot intelligence├── frontend/ # React.js application
 
-- **express-validator** - Input validation│   ├── public/
+- **express-validator** - Input validation│ ├── public/
 
-- **cors** - Cross-origin resource sharing│   ├── src/
+- **cors** - Cross-origin resource sharing│ ├── src/
 
-│   │   ├── components/        # Reusable components
+│ │ ├── components/ # Reusable components
 
-## 📦 Prerequisites│   │   ├── hooks/            # Custom hooks
+## 📦 Prerequisites│ │ ├── hooks/ # Custom hooks
 
-│   │   ├── pages/            # Page components
+│ │ ├── pages/ # Page components
 
-Before you begin, ensure you have the following installed:│   │   ├── services/         # API services
+Before you begin, ensure you have the following installed:│ │ ├── services/ # API services
 
-│   │   ├── store/            # Redux store and slices
+│ │ ├── store/ # Redux store and slices
 
-- **Node.js** (v16 or higher) - [Download](https://nodejs.org/)│   │   ├── App.js            # Main app component
+- **Node.js** (v16 or higher) - [Download](https://nodejs.org/)│ │ ├── App.js # Main app component
 
-- **npm** (v8 or higher) - Comes with Node.js│   │   └── index.js          # Entry point
+- **npm** (v8 or higher) - Comes with Node.js│ │ └── index.js # Entry point
 
-- **MongoDB Atlas Account** - [Sign up](https://www.mongodb.com/cloud/atlas)│   └── package.json
+- **MongoDB Atlas Account** - [Sign up](https://www.mongodb.com/cloud/atlas)│ └── package.json
 
 - **Google Gemini API Key** - [Get API Key](https://makersuite.google.com/app/apikey)│
 
 - **Git** - [Download](https://git-scm.com/)└── README.md
 
-```
+````
 
 ## 🚀 Installation
 
@@ -168,25 +156,21 @@ npm install```bash
 
 ```cd backend
 
-```
+````
 
 ### 3. Install Frontend Dependencies
 
 2. Install dependencies:
 
-```bash
+````bash
 
 cd ../frontend```bash
 
 npm installnpm install
 
-``````
-
-
+````
 
 ## 🔧 Environment Setup3. Create environment file:
-
-
 
 ### Backend Environment Variables```bash
 
@@ -194,13 +178,14 @@ cp .env.example .env
 
 1. Copy the example environment file:```
 
-   ```bash
+   ```````bash
 
    cd backend4. Configure environment variables in `.env`:
 
    cp .env.example .env
 
    ``````env
+   ```````
 
 NODE_ENV=development
 
@@ -220,13 +205,11 @@ NODE_ENV=developmentCORS_ORIGIN=http://localhost:3000
 
 PORT=50005. Start the development server:
 
-
-
 # MongoDB Configuration```bash
 
 MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/aadhaar-dbt?retryWrites=true&w=majoritynpm run dev
 
-```
+````
 
 # JWT Configuration
 
@@ -246,13 +229,11 @@ EMAIL_SERVICE_API_KEY=your-email-service-key1. Navigate to frontend directory:
 
 SMS_SERVICE_API_KEY=your-sms-service-keycd frontend
 
-```
+````
 
 # CORS Configuration
 
 CORS_ORIGIN=http://localhost:30002. Install dependencies:
-
-
 
 # Rate Limiting```bash
 
@@ -260,13 +241,11 @@ RATE_LIMIT_WINDOW_MS=900000npm install
 
 RATE_LIMIT_MAX_REQUESTS=100```
 
-
-
 # Google Gemini API Key3. Create environment file:
 
 GEMINI_API_KEY=your-gemini-api-key-here
 
-``````bash
+````bash
 
 cp .env.example .env
 
@@ -619,3 +598,4 @@ Developed for Smart India Hackathon 2025
 ---
 
 **For issues and questions, please open an issue on GitHub.**
+````
