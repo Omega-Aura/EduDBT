@@ -31,6 +31,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "build:render": "npm install --legacy-peer-deps && npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -51,6 +52,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "typescript": "^4.9.5"
+  },
+  "resolutions": {
+    "typescript": "^4.9.5"
   },
   "proxy": "http://localhost:5000"
 }

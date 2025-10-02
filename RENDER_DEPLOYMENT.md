@@ -52,7 +52,7 @@ RATE_LIMIT_MAX_REQUESTS=100
 | **Name** | `edudbt-frontend` |
 | **Branch** | `main` |
 | **Root Directory** | `frontend` |
-| **Build Command** | `npm run build` |
+| **Build Command** | `npm install --legacy-peer-deps && npm run build` |
 | **Publish Directory** | `build` |
 
 #### Environment Variables:
