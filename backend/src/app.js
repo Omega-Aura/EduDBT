@@ -30,16 +30,32 @@ const allowedOrigins = [
   'http://localhost:3001',
   process.env.CORS_ORIGIN,
   process.env.FRONTEND_URL
-].filter(Boolean);
+].filter(origin => origin && origin.trim()); // Remove empty/whitespace strings
+
+console.log('🔐 CORS Configuration:');
+console.log('Allowed Origins:', allowedOrigins);
+console.log('Environment:', process.env.NODE_ENV);
 
 app.use(cors({
   origin: function (origin, callback) {
     // Allow requests with no origin (mobile apps, Postman, etc.)
-    if (!origin) return callback(null, true);
+    if (!origin) {
+      console.log('✅ CORS: Allowing request with no origin');
+      return callback(null, true);
+    }
     
-    if (allowedOrigins.includes(origin)) {
+    // Normalize origin and allowed origins (remove trailing slashes for comparison)
+    const normalizedOrigin = origin.replace(/\/$/, '');
+    const normalizedAllowed = allowedOrigins.map(o => o.replace(/\/$/, ''));
+    
+    if (normalizedAllowed.includes(normalizedOrigin)) {
+      console.log('✅ CORS: Allowing origin:', origin);
       callback(null, true);
     } else {
+      console.log('❌ CORS: Blocking origin:', origin);
+      console.log('   Allowed origins:', allowedOrigins);
+      console.log('   Normalized origin:', normalizedOrigin);
+      console.log('   Normalized allowed:', normalizedAllowed);
       callback(new Error('Not allowed by CORS'));
     }
   },

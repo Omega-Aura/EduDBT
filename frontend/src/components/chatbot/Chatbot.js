@@ -19,6 +19,14 @@ const Chatbot = ({ isOpen, onClose, embedded = false }) => {
     setSessionId(newSessionId);
     localStorage.setItem('chatSessionId', newSessionId);
     
+    const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
+    console.log('🤖 Chatbot Initialized:', {
+      sessionId: newSessionId,
+      apiUrl: apiUrl,
+      environment: process.env.REACT_APP_ENVIRONMENT || 'development',
+      hasToken: !!localStorage.getItem('token')
+    });
+    
     // Add welcome message
     setMessages([{
       role: 'assistant',
