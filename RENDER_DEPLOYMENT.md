@@ -18,7 +18,7 @@
 | Field | Value |
 |-------|--------|
 | **Name** | `edudbt-backend` |
-| **Region** | `Oregon (US West)` |
+| **Region** | `Based on your region` |
 | **Branch** | `main` |
 | **Root Directory** | `backend` |
 | **Runtime** | `Node` |
