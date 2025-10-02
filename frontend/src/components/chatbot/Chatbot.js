@@ -92,7 +92,7 @@ const Chatbot = ({ isOpen, onClose, embedded = false }) => {
       });
 
       const response = await axios.post(
-        `${process.env.REACT_APP_API_URL || 'http://localhost:5000'}/api/chatbot/message`,
+        `${process.env.REACT_APP_API_URL || 'http://localhost:5000/api'}/chatbot/message`,
         {
           message: inputMessage,
           sessionId: sessionId,
@@ -148,7 +148,7 @@ const Chatbot = ({ isOpen, onClose, embedded = false }) => {
     if (window.confirm(t('chatbot:confirmClear', { defaultValue: 'Are you sure you want to clear this chat?' }))) {
       try {
         await axios.delete(
-          `${process.env.REACT_APP_API_URL || 'http://localhost:5000'}/api/chatbot/history/${sessionId}`
+          `${process.env.REACT_APP_API_URL || 'http://localhost:5000/api'}/chatbot/history/${sessionId}`
         );
         
         // Create new session
