@@ -1,0 +1,50 @@
+{
+  "welcome": "फिर से स्वागत है, {{name}}!",
+  "subtitle": "यहाँ आपकी सीखने की प्रगति का अवलोकन है।",
+  "loading": "लोड हो रहा है...",
+  "statistics": {
+    "articlesRead": "लेख पढ़े गए",
+    "coursesCompleted": "पाठ्यक्रम पूरे हुए",
+    "certificatesEarned": "प्रमाणपत्र अर्जित",
+    "overallProgress": "कुल प्रगति"
+  },
+  "quickActions": {
+    "title": "त्वरित कार्रवाई",
+    "browseMaterials": "सामग्री ब्राउज़ करें",
+    "takeQuiz": "क्विज़ लें",
+    "updateProfile": "प्रोफ़ाइल अपडेट करें",
+    "checkDBT": "डीबीटी जांचें"
+  },
+  "quizPerformance": {
+    "title": "क्विज़ प्रदर्शन",
+    "viewAll": "सभी देखें",
+    "completed": "पूर्ण",
+    "passed": "उत्तीर्ण",
+    "avgScore": "औसत स्कोर",
+    "excellent": "उत्कृष्ट! ऐसे ही जारी रखें!"
+  },
+  "progressChecklist": {
+    "title": "प्रगति चेकलिस्ट",
+    "completeProfile": "प्रोफ़ाइल पूरा करें",
+    "linkAadhaar": "आधार लिंक करें",
+    "addBankDetails": "बैंक विवरण जोड़ें",
+    "readDBTGuide": "डीबीटी गाइड पढ़ें",
+    "takeQuiz": "क्विज़ लें",
+    "complete": "पूरा करें"
+  },
+  "profileCard": {
+    "profileCompletion": "प्रोफ़ाइल पूर्णता",
+    "editProfile": "प्रोफ़ाइल संपादित करें"
+  },
+  "notices": {
+    "title": "महत्वपूर्ण सूचनाएं",
+    "scholarshipDeadline": "छात्रवृत्ति आवेदन 31 अक्टूबर, 2025 को बंद होंगे",
+    "aadhaarLinking": "डीबीटी के लिए आधार लिंकिंग पूरी करें",
+    "bankGuide": "नई बैंक लिंकिंग गाइड उपलब्ध है"
+  },
+  "helpCard": {
+    "title": "मदद चाहिए?",
+    "subtitle": "हमारी सहायता टीम आपकी सहायता के लिए यहाँ है।",
+    "contactSupport": "समर्थन से संपर्क करें"
+  }
+}

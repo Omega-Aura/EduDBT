@@ -1,0 +1,65 @@
+{
+  "title": "शिक्षा केंद्र",
+  "loading": "लोड हो रहा है...",
+  "tabs": {
+    "articles": "लेख",
+    "quizzes": "क्विज़"
+  },
+  "search": {
+    "placeholder": "लेख, क्विज़ या विषय खोजें...",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "tryDifferent": "अलग कीवर्ड आज़माएं या श्रेणी द्वारा ब्राउज़ करें"
+  },
+  "filters": {
+    "category": "श्रेणी",
+    "difficulty": "कठिनाई",
+    "sortBy": "क्रमबद्ध करें",
+    "newest": "सबसे नया पहले",
+    "oldest": "सबसे पुराना पहले",
+    "popular": "सबसे लोकप्रिय"
+  },
+  "categories": {
+    "all": "सभी श्रेणियां",
+    "aadhaarBasics": "आधार मूल बातें",
+    "dbtInfo": "डीबीटी जानकारी",
+    "scholarshipGuide": "छात्रवृत्ति गाइड",
+    "bankLinking": "बैंक लिंकिंग",
+    "troubleshooting": "समस्या निवारण",
+    "newsUpdates": "समाचार और अपडेट"
+  },
+  "difficulties": {
+    "all": "सभी स्तर",
+    "beginner": "शुरुआती",
+    "intermediate": "मध्यम",
+    "advanced": "उन्नत"
+  },
+  "articles": {
+    "readTime": "{{minutes}} मिनट पढ़ें",
+    "views": "{{count}} बार देखा गया",
+    "readMore": "और पढ़ें",
+    "readArticle": "लेख पढ़ें"
+  },
+  "quizzes": {
+    "questions": "{{count}} प्रश्न",
+    "duration": "{{minutes}} मिनट",
+    "difficulty": "कठिनाई",
+    "startQuiz": "क्विज़ शुरू करें",
+    "retakeQuiz": "क्विज़ फिर से लें",
+    "viewResults": "परिणाम देखें",
+    "status": {
+      "notStarted": "शुरू नहीं हुआ",
+      "inProgress": "प्रगति में",
+      "completed": "पूर्ण",
+      "passed": "उत्तीर्ण",
+      "failed": "अनुत्तीर्ण"
+    },
+    "yourScore": "आपका स्कोर: {{score}}%",
+    "passingScore": "उत्तीर्ण स्कोर: {{score}}%",
+    "lastAttempt": "अंतिम प्रयास: {{date}}",
+    "bestScore": "सर्वश्रेष्ठ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "सामग्री लोड करने में विफल। कृपया बाद में पुनः प्रयास करें।",
+    "retry": "पुनः प्रयास करें"
+  }
+}

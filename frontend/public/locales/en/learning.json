@@ -1,0 +1,65 @@
+{
+  "title": "Learning Center",
+  "loading": "Loading...",
+  "tabs": {
+    "articles": "Articles",
+    "quizzes": "Quizzes"
+  },
+  "search": {
+    "placeholder": "Search articles, quizzes, or topics...",
+    "noResults": "No results found",
+    "tryDifferent": "Try different keywords or browse by category"
+  },
+  "filters": {
+    "category": "Category",
+    "difficulty": "Difficulty",
+    "sortBy": "Sort By",
+    "newest": "Newest First",
+    "oldest": "Oldest First",
+    "popular": "Most Popular"
+  },
+  "categories": {
+    "all": "All Categories",
+    "aadhaarBasics": "Aadhaar Basics",
+    "dbtInfo": "DBT Information",
+    "scholarshipGuide": "Scholarship Guide",
+    "bankLinking": "Bank Linking",
+    "troubleshooting": "Troubleshooting",
+    "newsUpdates": "News & Updates"
+  },
+  "difficulties": {
+    "all": "All Levels",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "articles": {
+    "readTime": "{{minutes}} min read",
+    "views": "{{count}} views",
+    "readMore": "Read More",
+    "readArticle": "Read Article"
+  },
+  "quizzes": {
+    "questions": "{{count}} questions",
+    "duration": "{{minutes}} minutes",
+    "difficulty": "Difficulty",
+    "startQuiz": "Start Quiz",
+    "retakeQuiz": "Retake Quiz",
+    "viewResults": "View Results",
+    "status": {
+      "notStarted": "Not Started",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "passed": "Passed",
+      "failed": "Failed"
+    },
+    "yourScore": "Your Score: {{score}}%",
+    "passingScore": "Passing Score: {{score}}%",
+    "lastAttempt": "Last attempt: {{date}}",
+    "bestScore": "Best: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "Failed to load content. Please try again later.",
+    "retry": "Retry"
+  }
+}

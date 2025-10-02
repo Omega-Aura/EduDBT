@@ -1,0 +1,50 @@
+{
+  "welcome": "తిరిగి స్వాగతం, {{name}}!",
+  "subtitle": "మీ అభ్యాస పురోగతి యొక్క అవలోకనం ఇక్కడ ఉంది.",
+  "loading": "లోడ్ అవుతోంది...",
+  "statistics": {
+    "articlesRead": "చదివిన వ్యాసాలు",
+    "coursesCompleted": "పూర్తి చేసిన కోర్సులు",
+    "certificatesEarned": "సంపాదించిన సర్టిఫికేట్లు",
+    "overallProgress": "మొత్తం పురోగతి"
+  },
+  "quickActions": {
+    "title": "త్వరిత చర్యలు",
+    "browseMaterials": "మెటీరియల్స్ బ్రౌజ్ చేయండి",
+    "takeQuiz": "క్విజ్ తీసుకోండి",
+    "updateProfile": "ప్రొఫైల్ అప్‌డేట్ చేయండి",
+    "checkDBT": "DBT తనిఖీ చేయండి"
+  },
+  "quizPerformance": {
+    "title": "క్విజ్ పనితీరు",
+    "viewAll": "అన్నీ చూడండి",
+    "completed": "పూర్తయింది",
+    "passed": "ఉత్తీర్ణత",
+    "avgScore": "సగటు స్కోర్",
+    "excellent": "అద్భుతం! ఇలాగే కొనసాగించండి!"
+  },
+  "progressChecklist": {
+    "title": "పురోగతి చెక్‌లిస్ట్",
+    "completeProfile": "ప్రొఫైల్ పూర్తి చేయండి",
+    "linkAadhaar": "ఆధార్ లింక్ చేయండి",
+    "addBankDetails": "బ్యాంక్ వివరాలను జోడించండి",
+    "readDBTGuide": "DBT గైడ్ చదవండి",
+    "takeQuiz": "క్విజ్ తీసుకోండి",
+    "complete": "పూర్తి"
+  },
+  "profileCard": {
+    "profileCompletion": "ప్రొఫైల్ పూర్తి",
+    "editProfile": "ప్రొఫైల్ సవరించండి"
+  },
+  "notices": {
+    "title": "ముఖ్యమైన నోటీసులు",
+    "scholarshipDeadline": "స్కాలర్‌షిప్ దరఖాస్తులు అక్టోబర్ 31, 2025న మూసివేయబడతాయి",
+    "aadhaarLinking": "DBT కోసం ఆధార్ లింకింగ్ పూర్తి చేయండి",
+    "bankGuide": "కొత్త బ్యాంక్ లింకింగ్ గైడ్ అందుబాటులో ఉంది"
+  },
+  "helpCard": {
+    "title": "సహాయం కావాలా?",
+    "subtitle": "మా మద్దతు బృందం మీకు సహాయం చేయడానికి ఇక్కడ ఉంది.",
+    "contactSupport": "మద్దతును సంప్రదించండి"
+  }
+}

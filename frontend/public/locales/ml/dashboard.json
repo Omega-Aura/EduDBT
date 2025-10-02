@@ -1,0 +1,50 @@
+{
+  "welcome": "വീണ്ടും സ്വാഗതം, {{name}}!",
+  "subtitle": "നിങ്ങളുടെ പഠന പുരോഗതിയുടെ ഒരു നോട്ടം ഇതാ.",
+  "loading": "ലോഡ് ചെയ്യുന്നു...",
+  "statistics": {
+    "articlesRead": "വായിച്ച ലേഖനങ്ങൾ",
+    "coursesCompleted": "പൂർത്തിയാക്കിയ കോഴ്‌സുകൾ",
+    "certificatesEarned": "നേടിയ സർട്ടിഫിക്കറ്റുകൾ",
+    "overallProgress": "മൊത്തത്തിലുള്ള പുരോഗതി"
+  },
+  "quickActions": {
+    "title": "പെട്ടെന്നുള്ള പ്രവർത്തനങ്ങൾ",
+    "browseMaterials": "മെറ്റീരിയലുകൾ ബ്രൗസ് ചെയ്യുക",
+    "takeQuiz": "ക്വിസ് എടുക്കുക",
+    "updateProfile": "പ്രൊഫൈൽ അപ്‌ഡേറ്റ് ചെയ്യുക",
+    "checkDBT": "DBT പരിശോധിക്കുക"
+  },
+  "quizPerformance": {
+    "title": "ക്വിസ് പ്രകടനം",
+    "viewAll": "എല്ലാം കാണുക",
+    "completed": "പൂർത്തിയായി",
+    "passed": "വിജയിച്ചു",
+    "avgScore": "ശരാശരി സ്കോർ",
+    "excellent": "മികച്ചത്! ഇതുപോലെ തുടരുക!"
+  },
+  "progressChecklist": {
+    "title": "പുരോഗതി ചെക്ക്‌ലിസ്റ്റ്",
+    "completeProfile": "പ്രൊഫൈൽ പൂർത്തിയാക്കുക",
+    "linkAadhaar": "ആധാർ ലിങ്ക് ചെയ്യുക",
+    "addBankDetails": "ബാങ്ക് വിശദാംശങ്ങൾ ചേർക്കുക",
+    "readDBTGuide": "DBT ഗൈഡ് വായിക്കുക",
+    "takeQuiz": "ക്വിസ് എടുക്കുക",
+    "complete": "പൂർത്തിയായി"
+  },
+  "profileCard": {
+    "profileCompletion": "പ്രൊഫൈൽ പൂർത്തീകരണം",
+    "editProfile": "പ്രൊഫൈൽ എഡിറ്റ് ചെയ്യുക"
+  },
+  "notices": {
+    "title": "പ്രധാന അറിയിപ്പുകൾ",
+    "scholarshipDeadline": "സ്കോളർഷിപ്പ് അപേക്ഷകൾ 2025 ഒക്ടോബർ 31-ന് അവസാനിക്കും",
+    "aadhaarLinking": "DBT-യ്ക്കായി ആധാർ ലിങ്കിംഗ് പൂർത്തിയാക്കുക",
+    "bankGuide": "പുതിയ ബാങ്ക് ലിങ്കിംഗ് ഗൈഡ് ലഭ്യം"
+  },
+  "helpCard": {
+    "title": "സഹായം വേണോ?",
+    "subtitle": "ഞങ്ങളുടെ പിന്തുണാ സംഘം നിങ്ങളെ സഹായിക്കാൻ ഇവിടെയുണ്ട്.",
+    "contactSupport": "പിന്തുണയെ ബന്ധപ്പെടുക"
+  }
+}

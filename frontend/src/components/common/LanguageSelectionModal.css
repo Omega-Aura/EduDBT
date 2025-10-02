@@ -1,0 +1,46 @@
+.language-card {
+  transition: all 0.3s ease;
+  border: 2px solid #dee2e6;
+  cursor: pointer;
+}
+
+.language-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-color: #0d6efd;
+}
+
+.language-card.selected {
+  border-color: #0d6efd;
+  background-color: #e7f1ff;
+  box-shadow: 0 4px 12px rgba(13, 110, 253, 0.25);
+}
+
+.language-flag {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.language-native {
+  font-size: 0.9rem;
+  display: block;
+  font-weight: 500;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .language-flag {
+    font-size: 1.5rem;
+  }
+  
+  .language-card h6 {
+    font-size: 0.9rem;
+  }
+  
+  .language-native {
+    font-size: 0.8rem;
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "Welcome to Aadhaar DBT Awareness Platform",
+    "subtitle": "Empowering students with comprehensive knowledge about Aadhaar-DBT integration for seamless scholarship disbursements. Learn, apply, and track your scholarship journey with confidence.",
+    "getStarted": "Get Started",
+    "exploreContent": "Explore Content",
+    "goToDashboard": "Go to Dashboard",
+    "learningCenter": "Learning Center"
+  },
+  "welcome": {
+    "back": "Welcome back, {{name}}!",
+    "subtitle": "Continue your learning journey or check your application status."
+  },
+  "features": {
+    "title": "What You Can Learn",
+    "subtitle": "Comprehensive resources to help you understand and navigate the Aadhaar-DBT ecosystem",
+    "aadhaarBasics": {
+      "title": "Aadhaar Basics",
+      "description": "Learn about Aadhaar and its importance for DBT"
+    },
+    "bankLinking": {
+      "title": "Bank Linking Guide",
+      "description": "Step-by-step guide to link your Aadhaar with bank account"
+    },
+    "scholarship": {
+      "title": "Scholarship Information",
+      "description": "Complete guide about pre and post-matric scholarships"
+    },
+    "help": {
+      "title": "Help & Support",
+      "description": "Get help with common issues and troubleshooting"
+    },
+    "learnMore": "Learn More"
+  },
+  "statistics": {
+    "title": "Our Impact",
+    "studentsHelped": "Students Helped",
+    "learningResources": "Learning Resources",
+    "supportAvailable": "Support Available",
+    "successRate": "Success Rate"
+  },
+  "cta": {
+    "title": "Ready to Get Started?",
+    "subtitle": "Join thousands of students who have successfully navigated their scholarship journey with our platform.",
+    "createAccount": "Create Account",
+    "signIn": "Sign In"
+  },
+  "notice": {
+    "important": "Important",
+    "text": "Ensure your Aadhaar is linked with your bank account to receive scholarship benefits directly. Complete the linking process today!"
+  }
+}

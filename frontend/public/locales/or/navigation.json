@@ -1,0 +1,16 @@
+{
+  "home": "ମୂଳ ପୃଷ୍ଠା",
+  "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
+  "learningCenter": "ଶିକ୍ଷଣ କେନ୍ଦ୍ର",
+  "quizzes": "କୁଇଜ୍",
+  "help": "ସାହାଯ୍ୟ",
+  "profile": "ପ୍ରୋଫାଇଲ",
+  "login": "ଲଗଇନ",
+  "register": "ପଞ୍ଜିକରଣ କରନ୍ତୁ",
+  "logout": "ଲଗଆଉଟ",
+  "welcome": "ସ୍ବାଗତ, {{name}}!",
+  "myProfile": "ମୋର ପ୍ରୋଫାଇଲ",
+  "settings": "ସେଟିଂସ",
+  "notifications": "ବିଜ୍ଞପ୍ତି",
+  "language": "ଭାଷା"
+}

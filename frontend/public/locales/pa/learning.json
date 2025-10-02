@@ -1,0 +1,65 @@
+{
+  "title": "ਸਿੱਖਿਆ ਕੇਂਦਰ",
+  "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+  "tabs": {
+    "articles": "ਲੇਖ",
+    "quizzes": "ਕੁਇਜ਼"
+  },
+  "search": {
+    "placeholder": "ਲੇਖ, ਕੁਇਜ਼ ਜਾਂ ਵਿਸ਼ੇ ਖੋਜੋ...",
+    "noResults": "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਮਿਲੇ",
+    "tryDifferent": "ਵੱਖਰੇ ਕੀਵਰਡਸ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਸ਼੍ਰੇਣੀ ਦੁਆਰਾ ਬ੍ਰਾਊਜ਼ ਕਰੋ"
+  },
+  "filters": {
+    "category": "ਸ਼੍ਰੇਣੀ",
+    "difficulty": "ਮੁਸ਼ਕਲ",
+    "sortBy": "ਕ੍ਰਮਬੱਧ ਕਰੋ",
+    "newest": "ਸਭ ਤੋਂ ਨਵਾਂ ਪਹਿਲਾਂ",
+    "oldest": "ਸਭ ਤੋਂ ਪੁਰਾਣਾ ਪਹਿਲਾਂ",
+    "popular": "ਸਭ ਤੋਂ ਵੱਧ ਮਸ਼ਹੂਰ"
+  },
+  "categories": {
+    "all": "ਸਾਰੀਆਂ ਸ਼੍ਰੇਣੀਆਂ",
+    "aadhaarBasics": "ਆਧਾਰ ਮੂਲ ਗੱਲਾਂ",
+    "dbtInfo": "DBT ਜਾਣਕਾਰੀ",
+    "scholarshipGuide": "ਸਕਾਲਰਸ਼ਿਪ ਗਾਈਡ",
+    "bankLinking": "ਬੈਂਕ ਲਿੰਕਿੰਗ",
+    "troubleshooting": "ਸਮੱਸਿਆ ਨਿਵਾਰਨ",
+    "newsUpdates": "ਖ਼ਬਰਾਂ ਅਤੇ ਅਪਡੇਟ"
+  },
+  "difficulties": {
+    "all": "ਸਾਰੇ ਪੱਧਰ",
+    "beginner": "ਸ਼ੁਰੂਆਤੀ",
+    "intermediate": "ਮੱਧ",
+    "advanced": "ਉੱਨਤ"
+  },
+  "articles": {
+    "readTime": "{{minutes}} ਮਿੰਟ ਪੜ੍ਹੋ",
+    "views": "{{count}} ਵਾਰ ਦੇਖਿਆ ਗਿਆ",
+    "readMore": "ਹੋਰ ਪੜ੍ਹੋ",
+    "readArticle": "ਲੇਖ ਪੜ੍ਹੋ"
+  },
+  "quizzes": {
+    "questions": "{{count}} ਸਵਾਲ",
+    "duration": "{{minutes}} ਮਿੰਟ",
+    "difficulty": "ਮੁਸ਼ਕਲ",
+    "startQuiz": "ਕੁਇਜ਼ ਸ਼ੁਰੂ ਕਰੋ",
+    "retakeQuiz": "ਕੁਇਜ਼ ਦੁਬਾਰਾ ਲਓ",
+    "viewResults": "ਨਤੀਜੇ ਦੇਖੋ",
+    "status": {
+      "notStarted": "ਸ਼ੁਰੂ ਨਹੀਂ ਕੀਤਾ",
+      "inProgress": "ਚੱਲ ਰਿਹਾ ਹੈ",
+      "completed": "ਪੂਰੀ ਹੋਈ",
+      "passed": "ਪਾਸ ਹੋਈ",
+      "failed": "ਅਸਫਲ"
+    },
+    "yourScore": "ਤੁਹਾਡਾ ਸਕੋਰ: {{score}}%",
+    "passingScore": "ਪਾਸਿੰਗ ਸਕੋਰ: {{score}}%",
+    "lastAttempt": "ਆਖਰੀ ਕੋਸ਼ਿਸ਼: {{date}}",
+    "bestScore": "ਸਭ ਤੋਂ ਵਧੀਆ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "ਸਮੱਗਰੀ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "retry": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+  }
+}

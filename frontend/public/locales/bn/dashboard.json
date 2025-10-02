@@ -1,0 +1,50 @@
+{
+  "welcome": "আবার স্বাগতম, {{name}}!",
+  "subtitle": "এখানে আপনার শেখার অগ্রগতির একটি ওভারভিউ।",
+  "loading": "লোড হচ্ছে...",
+  "statistics": {
+    "articlesRead": "পঠিত নিবন্ধ",
+    "coursesCompleted": "সম্পন্ন কোর্স",
+    "certificatesEarned": "অর্জিত সার্টিফিকেট",
+    "overallProgress": "সামগ্রিক অগ্রগতি"
+  },
+  "quickActions": {
+    "title": "দ্রুত কর্ম",
+    "browseMaterials": "সামগ্রী ব্রাউজ করুন",
+    "takeQuiz": "কুইজ নিন",
+    "updateProfile": "প্রোফাইল আপডেট করুন",
+    "checkDBT": "ডিবিটি পরীক্ষা করুন"
+  },
+  "quizPerformance": {
+    "title": "কুইজ পারফরম্যান্স",
+    "viewAll": "সব দেখুন",
+    "completed": "সম্পন্ন",
+    "passed": "উত্তীর্ণ",
+    "avgScore": "গড় স্কোর",
+    "excellent": "চমৎকার! এভাবে চালিয়ে যান!"
+  },
+  "progressChecklist": {
+    "title": "অগ্রগতি চেকলিস্ট",
+    "completeProfile": "প্রোফাইল সম্পূর্ণ করুন",
+    "linkAadhaar": "আধার লিঙ্ক করুন",
+    "addBankDetails": "ব্যাঙ্ক বিবরণ যোগ করুন",
+    "readDBTGuide": "ডিবিটি গাইড পড়ুন",
+    "takeQuiz": "কুইজ নিন",
+    "complete": "সম্পূর্ণ করুন"
+  },
+  "profileCard": {
+    "profileCompletion": "প্রোফাইল সম্পূর্ণতা",
+    "editProfile": "প্রোফাইল সম্পাদনা করুন"
+  },
+  "notices": {
+    "title": "গুরুত্বপূর্ণ বিজ্ঞপ্তি",
+    "scholarshipDeadline": "বৃত্তি আবেদন 31 অক্টোবর, 2025 এ বন্ধ হবে",
+    "aadhaarLinking": "ডিবিটির জন্য আধার লিঙ্কিং সম্পূর্ণ করুন",
+    "bankGuide": "নতুন ব্যাঙ্ক লিঙ্কিং গাইড উপলব্ধ"
+  },
+  "helpCard": {
+    "title": "সাহায্য প্রয়োজন?",
+    "subtitle": "আমাদের সহায়তা দল আপনাকে সহায়তা করতে এখানে আছে।",
+    "contactSupport": "সহায়তার সাথে যোগাযোগ করুন"
+  }
+}

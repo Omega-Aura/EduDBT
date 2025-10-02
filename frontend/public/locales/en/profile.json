@@ -1,0 +1,80 @@
+{
+  "title": "My Profile",
+  "loading": "Loading...",
+  "tabs": {
+    "personal": "Personal Information",
+    "password": "Change Password",
+    "aadhaar": "Aadhaar Details",
+    "bank": "Bank Details",
+    "notifications": "Notifications"
+  },
+  "personal": {
+    "title": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender",
+    "selectGender": "Select Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "saveChanges": "Save Changes",
+    "saving": "Saving..."
+  },
+  "password": {
+    "title": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "requirements": "Password must be at least 8 characters long and include uppercase, lowercase, number, and special character.",
+    "changePassword": "Change Password",
+    "changing": "Changing...",
+    "mismatch": "Passwords do not match!"
+  },
+  "aadhaar": {
+    "title": "Aadhaar Details",
+    "number": "Aadhaar Number",
+    "name": "Name as per Aadhaar",
+    "verified": "Verified",
+    "notVerified": "Not Verified",
+    "verifyNow": "Verify Now",
+    "saveChanges": "Save Changes",
+    "saving": "Saving...",
+    "info": "Your Aadhaar information is kept secure and is used only for scholarship verification purposes."
+  },
+  "bank": {
+    "title": "Bank Details",
+    "bankName": "Bank Name",
+    "accountNumber": "Account Number",
+    "confirmAccount": "Confirm Account Number",
+    "ifscCode": "IFSC Code",
+    "accountHolder": "Account Holder Name",
+    "linked": "Linked with Aadhaar",
+    "notLinked": "Not Linked",
+    "linkNow": "Link Now",
+    "saveChanges": "Save Changes",
+    "saving": "Saving...",
+    "info": "Ensure your bank account is linked with Aadhaar for DBT benefits.",
+    "mismatch": "Account numbers do not match!"
+  },
+  "notifications": {
+    "title": "Notification Preferences",
+    "email": "Email Notifications",
+    "sms": "SMS Notifications",
+    "push": "Push Notifications",
+    "updates": "Scholarship Updates",
+    "deadlines": "Application Deadlines",
+    "statusChanges": "Status Changes",
+    "newsletters": "Newsletters",
+    "savePreferences": "Save Preferences",
+    "saving": "Saving..."
+  },
+  "messages": {
+    "success": "Profile updated successfully!",
+    "error": "Failed to update profile. Please try again.",
+    "passwordSuccess": "Password changed successfully!",
+    "passwordError": "Failed to change password. Please check your current password."
+  }
+}

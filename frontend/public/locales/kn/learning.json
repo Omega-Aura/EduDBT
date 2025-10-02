@@ -1,0 +1,65 @@
+{
+  "title": "ಕಲಿಕಾ ಕೇಂದ್ರ",
+  "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+  "tabs": {
+    "articles": "ಲೇಖನಗಳು",
+    "quizzes": "ಕ್ವಿಜ್‌ಗಳು"
+  },
+  "search": {
+    "placeholder": "ಲೇಖನಗಳು, ಕ್ವಿಜ್‌ಗಳು ಅಥವಾ ವಿಷಯಗಳನ್ನು ಹುಡುಕಿ...",
+    "noResults": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+    "tryDifferent": "ವಿವಿಧ ಕೀವರ್ಡ್‌ಗಳನ್ನು ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ವರ್ಗದ ಮೂಲಕ ಬ್ರೌಸ್ ಮಾಡಿ"
+  },
+  "filters": {
+    "category": "ವರ್ಗ",
+    "difficulty": "ಕಷ್ಟತೆ",
+    "sortBy": "ವಿಂಗಡಿಸಿ",
+    "newest": "ಹೊಸದು ಮೊದಲು",
+    "oldest": "ಹಳೆಯದು ಮೊದಲು",
+    "popular": "ಅತ್ಯಂತ ಜನಪ್ರಿಯ"
+  },
+  "categories": {
+    "all": "ಎಲ್ಲಾ ವರ್ಗಗಳು",
+    "aadhaarBasics": "ಆಧಾರ್ ಮೂಲಭೂತ ವಿಷಯಗಳು",
+    "dbtInfo": "DBT ಮಾಹಿತಿ",
+    "scholarshipGuide": "ಸ್ಕಾಲರ್‌ಶಿಪ್ ಮಾರ್ಗದರ್ಶಿ",
+    "bankLinking": "ಬ್ಯಾಂಕ್ ಲಿಂಕಿಂಗ್",
+    "troubleshooting": "ಟ್ರಬಲ್‌ಶೂಟಿಂಗ್",
+    "newsUpdates": "ಸುದ್ದಿ ಮತ್ತು ನವೀಕರಣಗಳು"
+  },
+  "difficulties": {
+    "all": "ಎಲ್ಲಾ ಮಟ್ಟಗಳು",
+    "beginner": "ಆರಂಭಿಕ",
+    "intermediate": "ಮಧ್ಯಮ",
+    "advanced": "ಉನ್ನತ"
+  },
+  "articles": {
+    "readTime": "{{minutes}} ನಿಮಿಷ ಓದು",
+    "views": "{{count}} ಬಾರಿ ವೀಕ್ಷಿಸಲಾಗಿದೆ",
+    "readMore": "ಇನ್ನಷ್ಟು ಓದು",
+    "readArticle": "ಲೇಖನ ಓದು"
+  },
+  "quizzes": {
+    "questions": "{{count}} ಪ್ರಶ್ನೆಗಳು",
+    "duration": "{{minutes}} ನಿಮಿಷ",
+    "difficulty": "ಕಷ್ಟತೆ",
+    "startQuiz": "ಕ್ವಿಜ್ ಪ್ರಾರಂಭಿಸಿ",
+    "retakeQuiz": "ಕ್ವಿಜ್ ಮರಳಿ ತೆಗೆದುಕೊಳ್ಳಿ",
+    "viewResults": "ಫಲಿತಾಂಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+    "status": {
+      "notStarted": "ಪ್ರಾರಂಭಿಸಿಲ್ಲ",
+      "inProgress": "ಪ್ರಗತಿಯಲ್ಲಿದೆ",
+      "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+      "passed": "ಉತ್ತೀರ್ಣ",
+      "failed": "ವಿಫಲ"
+    },
+    "yourScore": "ನಿಮ್ಮ ಸ್ಕೋರ್: {{score}}%",
+    "passingScore": "ಉತ್ತೀರ್ಣ ಸ್ಕೋರ್: {{score}}%",
+    "lastAttempt": "ಕೊನೆಯ ಪ್ರಯತ್ನ: {{date}}",
+    "bestScore": "ಉತ್ತಮ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "ವಿಷಯವನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+    "retry": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"
+  }
+}

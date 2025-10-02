@@ -1,0 +1,65 @@
+{
+  "title": "લર્નિંગ સેન્ટર",
+  "loading": "લોડ થઈ રહ્યું છે...",
+  "tabs": {
+    "articles": "લેખો",
+    "quizzes": "ક્વિઝ"
+  },
+  "search": {
+    "placeholder": "લેખો, ક્વિઝ અથવા વિષયો શોધો...",
+    "noResults": "કોઈ પરિણામો મળ્યા નથી",
+    "tryDifferent": "વિવિધ કીવર્ડ્સ અજમાવો અથવા વર્ગ દ્વારા બ્રાઉઝ કરો"
+  },
+  "filters": {
+    "category": "વર્ગ",
+    "difficulty": "મુશ્કેલી",
+    "sortBy": "ગોઠવો",
+    "newest": "સૌથી નવું પહેલા",
+    "oldest": "સૌથી જૂનું પહેલા",
+    "popular": "સૌથી લોકપ્રિય"
+  },
+  "categories": {
+    "all": "બધા વર્ગો",
+    "aadhaarBasics": "આધાર મૂળભૂત બાબતો",
+    "dbtInfo": "DBT માહિતી",
+    "scholarshipGuide": "શિષ્યવૃત્તિ માર્ગદર્શિકા",
+    "bankLinking": "બેંક લિંકિંગ",
+    "troubleshooting": "મુશ્કેલી નિવારણ",
+    "newsUpdates": "સમાચાર અને અપડેટ્સ"
+  },
+  "difficulties": {
+    "all": "બધા સ્તરો",
+    "beginner": "શરૂઆત",
+    "intermediate": "મધ્યમ",
+    "advanced": "ઉન્નત"
+  },
+  "articles": {
+    "readTime": "{{minutes}} મિનિટ વાંચો",
+    "views": "{{count}} વખત જોયું",
+    "readMore": "વધુ વાંચો",
+    "readArticle": "લેખ વાંચો"
+  },
+  "quizzes": {
+    "questions": "{{count}} પ્રશ્નો",
+    "duration": "{{minutes}} મિનિટ",
+    "difficulty": "મુશ્કેલી",
+    "startQuiz": "ક્વિઝ શરૂ કરો",
+    "retakeQuiz": "ક્વિઝ ફરીથી લો",
+    "viewResults": "પરિણામો જુઓ",
+    "status": {
+      "notStarted": "શરૂ થયું નથી",
+      "inProgress": "પ્રગતિમાં",
+      "completed": "પૂર્ણ થયું",
+      "passed": "પાસ થયા",
+      "failed": "નિષ્ફળ"
+    },
+    "yourScore": "તમારો સ્કોર: {{score}}%",
+    "passingScore": "પાસિંગ સ્કોર: {{score}}%",
+    "lastAttempt": "છેલ્લો પ્રયાસ: {{date}}",
+    "bestScore": "શ્રેષ્ઠ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "સામગ્રી લોડ કરવામાં નિષ્ફળ. કૃપા કરીને પછીથી ફરી પ્રયાસ કરો.",
+    "retry": "ફરી પ્રયાસ કરો"
+  }
+}

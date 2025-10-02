@@ -1,0 +1,65 @@
+{
+  "title": "లెర్నింగ్ సెంటర్",
+  "loading": "లోడ్ అవుతోంది...",
+  "tabs": {
+    "articles": "వ్యాసాలు",
+    "quizzes": "క్విజ్‌లు"
+  },
+  "search": {
+    "placeholder": "వ్యాసాలు, క్విజ్‌లు లేదా విషయాలను వెతకండి...",
+    "noResults": "ఫలితాలు ఏవీ దొరకలేదు",
+    "tryDifferent": "వేరే కీవర్డ్‌లను ప్రయత్నించండి లేదా వర్గం ద్వారా బ్రౌజ్ చేయండి"
+  },
+  "filters": {
+    "category": "వర్గం",
+    "difficulty": "కష్టం",
+    "sortBy": "క్రమబద్ధీకరించు",
+    "newest": "కొత్తవి మొదట",
+    "oldest": "పాతవి మొదట",
+    "popular": "అత్యంత ప్రజాదరణ"
+  },
+  "categories": {
+    "all": "అన్ని వర్గాలు",
+    "aadhaarBasics": "ఆధార్ బేసిక్స్",
+    "dbtInfo": "DBT సమాచారం",
+    "scholarshipGuide": "స్కాలర్‌షిప్ గైడ్",
+    "bankLinking": "బ్యాంక్ లింకింగ్",
+    "troubleshooting": "సమస్యా పరిష్కారం",
+    "newsUpdates": "వార్తలు & అప్‌డేట్‌లు"
+  },
+  "difficulties": {
+    "all": "అన్ని స్థాయిలు",
+    "beginner": "ప్రారంభకుడు",
+    "intermediate": "మధ్యస్థ",
+    "advanced": "అధునాతన"
+  },
+  "articles": {
+    "readTime": "{{minutes}} నిమిషాల చదువు",
+    "views": "{{count}} సార్లు చూశారు",
+    "readMore": "మరింత చదవండి",
+    "readArticle": "వ్యాసం చదవండి"
+  },
+  "quizzes": {
+    "questions": "{{count}} ప్రశ్నలు",
+    "duration": "{{minutes}} నిమిషాలు",
+    "difficulty": "కష్టం",
+    "startQuiz": "క్విజ్ ప్రారంభించండి",
+    "retakeQuiz": "క్విజ్ మళ్లీ తీసుకోండి",
+    "viewResults": "ఫలితాలు చూడండి",
+    "status": {
+      "notStarted": "ప్రారంభించలేదు",
+      "inProgress": "పురోగతిలో ఉంది",
+      "completed": "పూర్తయింది",
+      "passed": "ఉత్తీర్ణత",
+      "failed": "విఫలమైంది"
+    },
+    "yourScore": "మీ స్కోర్: {{score}}%",
+    "passingScore": "ఉత్తీర్ణత స్కోర్: {{score}}%",
+    "lastAttempt": "చివరి ప్రయత్నం: {{date}}",
+    "bestScore": "ఉత్తమం: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "కంటెంట్ లోడ్ చేయడం విఫలమైంది. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.",
+    "retry": "మళ్లీ ప్రయత్నించండి"
+  }
+}

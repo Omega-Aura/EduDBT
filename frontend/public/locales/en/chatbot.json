@@ -1,0 +1,15 @@
+{
+  "title": "EduDBT Assistant",
+  "subtitle": "AI-powered help",
+  "welcomeMessage": "Hello! 👋 I'm your EduDBT assistant. I can help you with Aadhaar linking, DBT enabling, scholarships, and more. What would you like to know?",
+  "inputPlaceholder": "Ask me anything about Aadhaar, DBT, scholarships...",
+  "clearChat": "Clear chat",
+  "confirmClear": "Are you sure you want to clear this chat?",
+  "errorMessage": "I apologize, but I'm having trouble responding right now. Please try again or visit our Help page for assistance.",
+  "disclaimer": "AI responses may not always be accurate. Verify important information.",
+  "online": "Online",
+  "typing": "Typing...",
+  "sendMessage": "Send message",
+  "aiPoweredHelp": "AI-powered help",
+  "askAnything": "Ask anything"
+}

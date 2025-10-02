@@ -1,0 +1,16 @@
+{
+  "home": "होम",
+  "dashboard": "डैशबोर्ड",
+  "profile": "प्रोफ़ाइल",
+  "learningCenter": "शिक्षा केंद्र",
+  "quizzes": "क्विज़",
+  "help": "सहायता",
+  "login": "लॉगिन",
+  "register": "रजिस्टर करें",
+  "logout": "लॉगआउट",
+  "settings": "सेटिंग्स",
+  "aboutUs": "हमारे बारे में",
+  "contactUs": "हमसे संपर्क करें",
+  "privacyPolicy": "गोपनीयता नीति",
+  "termsOfService": "सेवा की शर्तें"
+}

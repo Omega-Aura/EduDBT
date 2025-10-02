@@ -1,0 +1,16 @@
+{
+  "home": "মূল পৃষ্ঠা",
+  "dashboard": "ডেছব'ৰ্ড",
+  "learningCenter": "শিক্ষণ কেন্দ্ৰ",
+  "quizzes": "কুইজ",
+  "help": "সহায়",
+  "profile": "প্ৰ'ফাইল",
+  "login": "লগইন",
+  "register": "পঞ্জীয়ন কৰক",
+  "logout": "লগআউট",
+  "welcome": "স্বাগতম, {{name}}!",
+  "myProfile": "মোৰ প্ৰ'ফাইল",
+  "settings": "ছেটিংছ",
+  "notifications": "জাননী",
+  "language": "ভাষা"
+}

@@ -1,0 +1,50 @@
+{
+  "welcome": "ପୁନଃ ସ୍ବାଗତ, {{name}}!",
+  "subtitle": "ଆପଣଙ୍କର ଶିକ୍ଷଣ ପ୍ରଗତିର ଏକ ଝଲକ ଏଠାରେ।",
+  "loading": "ଲୋଡ୍ ହେଉଛି...",
+  "statistics": {
+    "articlesRead": "ପଢାଯାଇଥିବା ପ୍ରବନ୍ଧ",
+    "coursesCompleted": "ସମାପ୍ତ ହୋଇଥିବା ପାଠ୍ୟକ୍ରମ",
+    "certificatesEarned": "ଅର୍ଜନ କରାଯାଇଥିବା ପ୍ରମାଣପତ୍ର",
+    "overallProgress": "ସମୁଦାୟ ପ୍ରଗତି"
+  },
+  "quickActions": {
+    "title": "ତ୍ୱରିତ କାର୍ଯ୍ୟଗୁଡିକ",
+    "browseMaterials": "ସାମଗ୍ରୀ ବ୍ରାଉଜ କରନ୍ତୁ",
+    "takeQuiz": "କୁଇଜ୍ ନିଅନ୍ତୁ",
+    "updateProfile": "ପ୍ରୋଫାଇଲ ଅପଡେଟ କରନ୍ତୁ",
+    "checkDBT": "DBT ଯାଞ୍ଚ କରନ୍ତୁ"
+  },
+  "quizPerformance": {
+    "title": "କୁଇଜ୍ ପ୍ରଦର୍ଶନ",
+    "viewAll": "ସବୁ ଦେଖନ୍ତୁ",
+    "completed": "ସମାପ୍ତ",
+    "passed": "ଉତ୍ତୀର୍ଣ୍ଣ",
+    "avgScore": "ହାରାହାରି ସ୍କୋର",
+    "excellent": "ଉତ୍କୃଷ୍ଟ! ଏହିପରି ଜାରି ରଖନ୍ତୁ!"
+  },
+  "progressChecklist": {
+    "title": "ପ୍ରଗତି ଯାଞ୍ଚ ତାଲିକା",
+    "completeProfile": "ପ୍ରୋଫାଇଲ ସମାପ୍ତ କରନ୍ତୁ",
+    "linkAadhaar": "ଆଧାର ଲିଙ୍କ କରନ୍ତୁ",
+    "addBankDetails": "ବ୍ୟାଙ୍କ ବିବରଣୀ ଯୋଡନ୍ତୁ",
+    "readDBTGuide": "DBT ଗାଇଡ ପଢନ୍ତୁ",
+    "takeQuiz": "କୁଇଜ୍ ନିଅନ୍ତୁ",
+    "complete": "ସମାପ୍ତ"
+  },
+  "profileCard": {
+    "profileCompletion": "ପ୍ରୋଫାଇଲ ସମାପ୍ତି",
+    "editProfile": "ପ୍ରୋଫାଇଲ ସମ୍ପାଦନା କରନ୍ତୁ"
+  },
+  "notices": {
+    "title": "ମହତ୍ତ୍ୱପୂର୍ଣ୍ଣ ବିଜ୍ଞପ୍ତି",
+    "scholarshipDeadline": "ଛାତ୍ରବୃତ୍ତି ଆବେଦନ 31 ଅକ୍ଟୋବର 2025ରେ ବନ୍ଦ ହେବ",
+    "aadhaarLinking": "DBT ପାଇଁ ଆଧାର ଲିଙ୍କିଂ ସମାପ୍ତ କରନ୍ତୁ",
+    "bankGuide": "ନୂତନ ବ୍ୟାଙ୍କ ଲିଙ୍କିଂ ଗାଇଡ ଉପଲବ୍ଧ"
+  },
+  "helpCard": {
+    "title": "ସାହାଯ୍ୟ ଦରକାର?",
+    "subtitle": "ଆମର ସମର୍ଥନ ଦଳ ଆପଣଙ୍କୁ ସାହାଯ୍ୟ କରିବାକୁ ଏଠାରେ ଅଛି।",
+    "contactSupport": "ସମର୍ଥନକୁ ସମ୍ପର୍କ କରନ୍ତୁ"
+  }
+}

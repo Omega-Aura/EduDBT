@@ -1,0 +1,16 @@
+{
+  "home": "হোম",
+  "dashboard": "ড্যাশবোর্ড",
+  "learningCenter": "শিক্ষা কেন্দ্র",
+  "quizzes": "কুইজ",
+  "help": "সহায়তা",
+  "profile": "প্রোফাইল",
+  "login": "লগইন",
+  "register": "নিবন্ধন করুন",
+  "logout": "লগআউট",
+  "welcome": "স্বাগতম, {{name}}!",
+  "myProfile": "আমার প্রোফাইল",
+  "settings": "সেটিংস",
+  "notifications": "বিজ্ঞপ্তি",
+  "language": "ভাষা"
+}

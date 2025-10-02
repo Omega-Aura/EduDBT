@@ -1,0 +1,16 @@
+{
+  "home": "ਮੁੱਖ ਪੰਨਾ",
+  "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+  "learningCenter": "ਸਿੱਖਿਆ ਕੇਂਦਰ",
+  "quizzes": "ਕੁਇਜ਼",
+  "help": "ਸਹਾਇਤਾ",
+  "profile": "ਪ੍ਰੋਫਾਈਲ",
+  "login": "ਲਾਗਇਨ",
+  "register": "ਰਜਿਸਟਰ ਕਰੋ",
+  "logout": "ਲਾਗਆਉਟ",
+  "welcome": "ਸੁਆਗਤ ਹੈ, {{name}}!",
+  "myProfile": "ਮੇਰੀ ਪ੍ਰੋਫਾਈਲ",
+  "settings": "ਸੈਟਿੰਗਾਂ",
+  "notifications": "ਸੂਚਨਾਵਾਂ",
+  "language": "ਭਾਸ਼ਾ"
+}

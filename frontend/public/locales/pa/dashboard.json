@@ -1,0 +1,50 @@
+{
+  "welcome": "ਦੁਬਾਰਾ ਸੁਆਗਤ ਹੈ, {{name}}!",
+  "subtitle": "ਇੱਥੇ ਤੁਹਾਡੀ ਸਿੱਖਿਆ ਦੀ ਪ੍ਰਗਤੀ ਦੀ ਇੱਕ ਝਲਕ ਹੈ।",
+  "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+  "statistics": {
+    "articlesRead": "ਪੜ੍ਹੇ ਗਏ ਲੇਖ",
+    "coursesCompleted": "ਪੂਰੇ ਕੀਤੇ ਕੋਰਸ",
+    "certificatesEarned": "ਪ੍ਰਾਪਤ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ",
+    "overallProgress": "ਸਮੁੱਚੀ ਪ੍ਰਗਤੀ"
+  },
+  "quickActions": {
+    "title": "ਤੇਜ਼ ਕਾਰਵਾਈਆਂ",
+    "browseMaterials": "ਸਮੱਗਰੀ ਬ੍ਰਾਊਜ਼ ਕਰੋ",
+    "takeQuiz": "ਕੁਇਜ਼ ਲਓ",
+    "updateProfile": "ਪ੍ਰੋਫਾਈਲ ਅਪਡੇਟ ਕਰੋ",
+    "checkDBT": "DBT ਜਾਂਚ ਕਰੋ"
+  },
+  "quizPerformance": {
+    "title": "ਕੁਇਜ਼ ਪ੍ਰਦਰਸ਼ਨ",
+    "viewAll": "ਸਾਰੇ ਵੇਖੋ",
+    "completed": "ਪੂਰੀ ਹੋਈ",
+    "passed": "ਪਾਸ ਹੋਈ",
+    "avgScore": "ਔਸਤ ਸਕੋਰ",
+    "excellent": "ਸ਼ਾਨਦਾਰ! ਇਸੇ ਤਰ੍ਹਾਂ ਜਾਰੀ ਰੱਖੋ!"
+  },
+  "progressChecklist": {
+    "title": "ਪ੍ਰਗਤੀ ਜਾਂਚ ਸੂਚੀ",
+    "completeProfile": "ਪ੍ਰੋਫਾਈਲ ਪੂਰੀ ਕਰੋ",
+    "linkAadhaar": "ਆਧਾਰ ਲਿੰਕ ਕਰੋ",
+    "addBankDetails": "ਬੈਂਕ ਵੇਰਵੇ ਜੋੜੋ",
+    "readDBTGuide": "DBT ਗਾਈਡ ਪੜ੍ਹੋ",
+    "takeQuiz": "ਕੁਇਜ਼ ਲਓ",
+    "complete": "ਪੂਰਾ"
+  },
+  "profileCard": {
+    "profileCompletion": "ਪ੍ਰੋਫਾਈਲ ਸੰਪੂਰਨਤਾ",
+    "editProfile": "ਪ੍ਰੋਫਾਈਲ ਸੰਪਾਦਿਤ ਕਰੋ"
+  },
+  "notices": {
+    "title": "ਮਹੱਤਵਪੂਰਨ ਸੂਚਨਾਵਾਂ",
+    "scholarshipDeadline": "ਸਕਾਲਰਸ਼ਿਪ ਅਰਜ਼ੀਆਂ 31 ਅਕਤੂਬਰ 2025 ਨੂੰ ਬੰਦ ਹੋਣਗੀਆਂ",
+    "aadhaarLinking": "DBT ਲਈ ਆਧਾਰ ਲਿੰਕਿੰਗ ਪੂਰੀ ਕਰੋ",
+    "bankGuide": "ਨਵੀਂ ਬੈਂਕ ਲਿੰਕਿੰਗ ਗਾਈਡ ਉਪਲਬਧ"
+  },
+  "helpCard": {
+    "title": "ਮਦਦ ਚਾਹੀਦੀ ਹੈ?",
+    "subtitle": "ਸਾਡੀ ਸਹਾਇਤਾ ਟੀਮ ਤੁਹਾਡੀ ਮਦਦ ਕਰਨ ਲਈ ਇੱਥੇ ਹੈ।",
+    "contactSupport": "ਸਮਰਥਨ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
+  }
+}

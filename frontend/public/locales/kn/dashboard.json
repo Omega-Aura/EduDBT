@@ -1,0 +1,50 @@
+{
+  "welcome": "ಮರಳಿ ಸ್ವಾಗತ, {{name}}!",
+  "subtitle": "ನಿಮ್ಮ ಕಲಿಕಾ ಪ್ರಗತಿಯ ಒಂದು ನೋಟ ಇಲ್ಲಿದೆ.",
+  "loading": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...",
+  "statistics": {
+    "articlesRead": "ಓದಿದ ಲೇಖನಗಳು",
+    "coursesCompleted": "ಪೂರ್ಣಗೊಂಡ ಕೋರ್ಸ್‌ಗಳು",
+    "certificatesEarned": "ಗಳಿಸಿದ ಪ್ರಮಾಣಪತ್ರಗಳು",
+    "overallProgress": "ಒಟ್ಟು ಪ್ರಗತಿ"
+  },
+  "quickActions": {
+    "title": "ತ್ವರಿತ ಕ್ರಿಯೆಗಳು",
+    "browseMaterials": "ಸಾಮಗ್ರಿಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ",
+    "takeQuiz": "ಕ್ವಿಜ್ ತೆಗೆದುಕೊಳ್ಳಿ",
+    "updateProfile": "ಪ್ರೊಫೈಲ್ ನವೀಕರಿಸಿ",
+    "checkDBT": "DBT ಪರಿಶೀಲಿಸಿ"
+  },
+  "quizPerformance": {
+    "title": "ಕ್ವಿಜ್ ಕಾರ್ಯಕ್ಷಮತೆ",
+    "viewAll": "ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ",
+    "completed": "ಪೂರ್ಣಗೊಂಡಿದೆ",
+    "passed": "ಉತ್ತೀರ್ಣ",
+    "avgScore": "ಸರಾಸರಿ ಸ್ಕೋರ್",
+    "excellent": "ಅತ್ಯುತ್ತಮ! ಹೀಗೆಯೇ ಮುಂದುವರಿಸಿ!"
+  },
+  "progressChecklist": {
+    "title": "ಪ್ರಗತಿ ಪರಿಶೀಲನೆ ಪಟ್ಟಿ",
+    "completeProfile": "ಪ್ರೊಫೈಲ್ ಪೂರ್ಣಗೊಳಿಸಿ",
+    "linkAadhaar": "ಆಧಾರ್ ಲಿಂಕ್ ಮಾಡಿ",
+    "addBankDetails": "ಬ್ಯಾಂಕ್ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ",
+    "readDBTGuide": "DBT ಮಾರ್ಗದರ್ಶಿ ಓದಿ",
+    "takeQuiz": "ಕ್ವಿಜ್ ತೆಗೆದುಕೊಳ್ಳಿ",
+    "complete": "ಪೂರ್ಣ"
+  },
+  "profileCard": {
+    "profileCompletion": "ಪ್ರೊಫೈಲ್ ಪೂರ್ಣಗೊಳಿಕೆ",
+    "editProfile": "ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ"
+  },
+  "notices": {
+    "title": "ಮುಖ್ಯ ಅಧಿಸೂಚನೆಗಳು",
+    "scholarshipDeadline": "ಸ್ಕಾಲರ್‌ಶಿಪ್ ಅರ್ಜಿಗಳು 31 ಅಕ್ಟೋಬರ್ 2025 ರಂದು ಮುಚ್ಚಲಿವೆ",
+    "aadhaarLinking": "DBT ಗಾಗಿ ಆಧಾರ್ ಲಿಂಕಿಂಗ್ ಪೂರ್ಣಗೊಳಿಸಿ",
+    "bankGuide": "ಹೊಸ ಬ್ಯಾಂಕ್ ಲಿಂಕಿಂಗ್ ಮಾರ್ಗದರ್ಶಿ ಲಭ್ಯ"
+  },
+  "helpCard": {
+    "title": "ಸಹಾಯ ಬೇಕೇ?",
+    "subtitle": "ನಮ್ಮ ಬೆಂಬಲ ತಂಡ ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ಇಲ್ಲಿದೆ.",
+    "contactSupport": "ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ"
+  }
+}

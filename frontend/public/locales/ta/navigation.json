@@ -1,0 +1,16 @@
+{
+  "home": "முகப்பு",
+  "dashboard": "டாஷ்போர்டு",
+  "learningCenter": "கற்றல் மையம்",
+  "quizzes": "வினாடி வினாக்கள்",
+  "help": "உதவி",
+  "profile": "சுயவிவரம்",
+  "login": "உள்நுழைவு",
+  "register": "பதிவு செய்க",
+  "logout": "வெளியேறு",
+  "welcome": "வரவேற்கிறோம், {{name}}!",
+  "myProfile": "என் சுயவிவரம்",
+  "settings": "அமைப்புகள்",
+  "notifications": "அறிவிப்புகள்",
+  "language": "மொழி"
+}

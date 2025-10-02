@@ -1,0 +1,50 @@
+{
+  "welcome": "خوش آمدید، {{name}}!",
+  "subtitle": "یہاں آپ کی سیکھنے کی پیشرفت کی ایک جھلک ہے۔",
+  "loading": "لوڈ ہو رہا ہے...",
+  "statistics": {
+    "articlesRead": "پڑھے گئے مضامین",
+    "coursesCompleted": "مکمل شدہ کورسز",
+    "certificatesEarned": "حاصل شدہ سرٹیفکیٹ",
+    "overallProgress": "مجموعی پیشرفت"
+  },
+  "quickActions": {
+    "title": "فوری اعمال",
+    "browseMaterials": "مواد براؤز کریں",
+    "takeQuiz": "کوئز لیں",
+    "updateProfile": "پروفائل اپ ڈیٹ کریں",
+    "checkDBT": "ڈی بی ٹی چیک کریں"
+  },
+  "quizPerformance": {
+    "title": "کوئز کی کارکردگی",
+    "viewAll": "سب دیکھیں",
+    "completed": "مکمل",
+    "passed": "پاس",
+    "avgScore": "اوسط اسکور",
+    "excellent": "بہترین! ایسے ہی جاری رکھیں!"
+  },
+  "progressChecklist": {
+    "title": "پیشرفت کی فہرست",
+    "completeProfile": "پروفائل مکمل کریں",
+    "linkAadhaar": "آدھار لنک کریں",
+    "addBankDetails": "بینک کی تفصیلات شامل کریں",
+    "readDBTGuide": "ڈی بی ٹی گائیڈ پڑھیں",
+    "takeQuiz": "کوئز لیں",
+    "complete": "مکمل"
+  },
+  "profileCard": {
+    "profileCompletion": "پروفائل کی تکمیل",
+    "editProfile": "پروفائل میں ترمیم کریں"
+  },
+  "notices": {
+    "title": "اہم اطلاعات",
+    "scholarshipDeadline": "اسکالرشپ کی درخواستیں 31 اکتوبر 2025 کو بند ہو جائیں گی",
+    "aadhaarLinking": "ڈی بی ٹی کے لیے آدھار لنکنگ مکمل کریں",
+    "bankGuide": "نئی بینک لنکنگ گائیڈ دستیاب"
+  },
+  "helpCard": {
+    "title": "مدد چاہیے؟",
+    "subtitle": "ہماری معاونت کی ٹیم آپ کی مدد کے لیے یہاں ہے۔",
+    "contactSupport": "معاونت سے رابطہ کریں"
+  }
+}

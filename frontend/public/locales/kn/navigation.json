@@ -1,0 +1,16 @@
+{
+  "home": "ಮುಖಪುಟ",
+  "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+  "learningCenter": "ಕಲಿಕಾ ಕೇಂದ್ರ",
+  "quizzes": "ಕ್ವಿಜ್‌ಗಳು",
+  "help": "ಸಹಾಯ",
+  "profile": "ಪ್ರೊಫೈಲ್",
+  "login": "ಲಾಗಿನ್",
+  "register": "ನೋಂದಾಯಿಸಿ",
+  "logout": "ಲಾಗೌಟ್",
+  "welcome": "ಸ್ವಾಗತ, {{name}}!",
+  "myProfile": "ನನ್ನ ಪ್ರೊಫೈಲ್",
+  "settings": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+  "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+  "language": "ಭಾಷೆ"
+}

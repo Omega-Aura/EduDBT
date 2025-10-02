@@ -1,0 +1,65 @@
+{
+  "title": "سیکھنے کا مرکز",
+  "loading": "لوڈ ہو رہا ہے...",
+  "tabs": {
+    "articles": "مضامین",
+    "quizzes": "کوئز"
+  },
+  "search": {
+    "placeholder": "مضامین، کوئز یا موضوعات تلاش کریں...",
+    "noResults": "کوئی نتیجہ نہیں ملا",
+    "tryDifferent": "مختلف مطلوبہ الفاظ آزمائیں یا زمرہ کے لحاظ سے براؤز کریں"
+  },
+  "filters": {
+    "category": "زمرہ",
+    "difficulty": "دشواری",
+    "sortBy": "ترتیب",
+    "newest": "سب سے نیا پہلے",
+    "oldest": "سب سے پرانا پہلے",
+    "popular": "سب سے مقبول"
+  },
+  "categories": {
+    "all": "تمام زمرے",
+    "aadhaarBasics": "آدھار کی بنیادی باتیں",
+    "dbtInfo": "ڈی بی ٹی کی معلومات",
+    "scholarshipGuide": "اسکالرشپ گائیڈ",
+    "bankLinking": "بینک لنکنگ",
+    "troubleshooting": "ٹربل شوٹنگ",
+    "newsUpdates": "خبریں اور اپ ڈیٹس"
+  },
+  "difficulties": {
+    "all": "تمام سطحیں",
+    "beginner": "ابتدائی",
+    "intermediate": "درمیانی",
+    "advanced": "اعلیٰ"
+  },
+  "articles": {
+    "readTime": "{{minutes}} منٹ پڑھیں",
+    "views": "{{count}} بار دیکھا گیا",
+    "readMore": "مزید پڑھیں",
+    "readArticle": "مضمون پڑھیں"
+  },
+  "quizzes": {
+    "questions": "{{count}} سوالات",
+    "duration": "{{minutes}} منٹ",
+    "difficulty": "دشواری",
+    "startQuiz": "کوئز شروع کریں",
+    "retakeQuiz": "دوبارہ کوئز لیں",
+    "viewResults": "نتائج دیکھیں",
+    "status": {
+      "notStarted": "شروع نہیں ہوا",
+      "inProgress": "جاری",
+      "completed": "مکمل",
+      "passed": "پاس",
+      "failed": "ناکام"
+    },
+    "yourScore": "آپ کا اسکور: {{score}}%",
+    "passingScore": "پاسنگ اسکور: {{score}}%",
+    "lastAttempt": "آخری کوشش: {{date}}",
+    "bestScore": "بہترین: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "مواد لوڈ کرنے میں ناکامی۔ براہ کرم بعد میں دوبارہ کوشش کریں۔",
+    "retry": "دوبارہ کوشش کریں"
+  }
+}

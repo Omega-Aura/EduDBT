@@ -1,0 +1,50 @@
+{
+  "welcome": "পুনৰ স্বাগতম, {{name}}!",
+  "subtitle": "ইয়াত আপোনাৰ শিক্ষণ অগ্ৰগতিৰ এক দৃশ্য।",
+  "loading": "ল'ড হৈ আছে...",
+  "statistics": {
+    "articlesRead": "পঢ়া প্ৰবন্ধ",
+    "coursesCompleted": "সম্পূৰ্ণ পাঠ্যক্ৰম",
+    "certificatesEarned": "অৰ্জন কৰা প্ৰমাণপত্ৰ",
+    "overallProgress": "সামগ্ৰিক অগ্ৰগতি"
+  },
+  "quickActions": {
+    "title": "দ্ৰুত কাৰ্য্য",
+    "browseMaterials": "সামগ্ৰী ব্ৰাউজ কৰক",
+    "takeQuiz": "কুইজ লওক",
+    "updateProfile": "প্ৰ'ফাইল আপডেট কৰক",
+    "checkDBT": "DBT পৰীক্ষা কৰক"
+  },
+  "quizPerformance": {
+    "title": "কুইজ প্ৰদৰ্শন",
+    "viewAll": "সকলো চাওক",
+    "completed": "সম্পূৰ্ণ",
+    "passed": "উত্তীৰ্ণ",
+    "avgScore": "গড় স্ক'ৰ",
+    "excellent": "অসাধাৰণ! এনেদৰে আগবাঢ়ি যাওক!"
+  },
+  "progressChecklist": {
+    "title": "অগ্ৰগতি পৰীক্ষা তালিকা",
+    "completeProfile": "প্ৰ'ফাইল সম্পূৰ্ণ কৰক",
+    "linkAadhaar": "আধাৰ সংযোগ কৰক",
+    "addBankDetails": "বেংক বিবৰণ যোগ কৰক",
+    "readDBTGuide": "DBT গাইড পঢ়ক",
+    "takeQuiz": "কুইজ লওক",
+    "complete": "সম্পূৰ্ণ"
+  },
+  "profileCard": {
+    "profileCompletion": "প্ৰ'ফাইল সম্পূৰ্ণতা",
+    "editProfile": "প্ৰ'ফাইল সম্পাদনা কৰক"
+  },
+  "notices": {
+    "title": "গুৰুত্বপূৰ্ণ জাননী",
+    "scholarshipDeadline": "বৃত্তি আবেদন 31 অক্টোবৰ 2025ত বন্ধ হ'ব",
+    "aadhaarLinking": "DBTৰ বাবে আধাৰ সংযোগ সম্পূৰ্ণ কৰক",
+    "bankGuide": "নতুন বেংক সংযোগ গাইড উপলব্ধ"
+  },
+  "helpCard": {
+    "title": "সহায়ৰ প্ৰয়োজন?",
+    "subtitle": "আমাৰ সমৰ্থন দল আপোনাক সহায় কৰিবলৈ ইয়াত আছে।",
+    "contactSupport": "সমৰ্থনৰ সৈতে যোগাযোগ কৰক"
+  }
+}

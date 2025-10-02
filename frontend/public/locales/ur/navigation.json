@@ -1,0 +1,16 @@
+{
+  "home": "ہوم",
+  "dashboard": "ڈیش بورڈ",
+  "learningCenter": "سیکھنے کا مرکز",
+  "quizzes": "کوئز",
+  "help": "مدد",
+  "profile": "پروفائل",
+  "login": "لاگ ان",
+  "register": "رجسٹر کریں",
+  "logout": "لاگ آؤٹ",
+  "welcome": "خوش آمدید، {{name}}!",
+  "myProfile": "میری پروفائل",
+  "settings": "ترتیبات",
+  "notifications": "اطلاعات",
+  "language": "زبان"
+}

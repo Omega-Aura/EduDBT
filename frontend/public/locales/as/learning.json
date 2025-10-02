@@ -1,0 +1,65 @@
+{
+  "title": "শিক্ষণ কেন্দ্ৰ",
+  "loading": "ল'ড হৈ আছে...",
+  "tabs": {
+    "articles": "প্ৰবন্ধ",
+    "quizzes": "কুইজ"
+  },
+  "search": {
+    "placeholder": "প্ৰবন্ধ, কুইজ বা বিষয় সন্ধান কৰক...",
+    "noResults": "কোনো ফলাফল পোৱা নগ'ল",
+    "tryDifferent": "বিভিন্ন কীৱৰ্ড চেষ্টা কৰক বা শ্ৰেণী অনুসৰি ব্ৰাউজ কৰক"
+  },
+  "filters": {
+    "category": "শ্ৰেণী",
+    "difficulty": "কঠিনতা",
+    "sortBy": "সজাওক",
+    "newest": "নতুনতম প্ৰথমে",
+    "oldest": "পুৰণিতম প্ৰথমে",
+    "popular": "সৰ্বাধিক জনপ্ৰিয়"
+  },
+  "categories": {
+    "all": "সকলো শ্ৰেণী",
+    "aadhaarBasics": "আধাৰ মৌলিক কথা",
+    "dbtInfo": "DBT তথ্য",
+    "scholarshipGuide": "বৃত্তি গাইড",
+    "bankLinking": "বেংক সংযোগ",
+    "troubleshooting": "সমস্যা সমাধান",
+    "newsUpdates": "বাতৰি আৰু আপডেট"
+  },
+  "difficulties": {
+    "all": "সকলো স্তৰ",
+    "beginner": "আৰম্ভণি",
+    "intermediate": "মধ্যমীয়া",
+    "advanced": "উন্নত"
+  },
+  "articles": {
+    "readTime": "{{minutes}} মিনিট পঢ়ক",
+    "views": "{{count}} বাৰ চোৱা হৈছে",
+    "readMore": "অধিক পঢ়ক",
+    "readArticle": "প্ৰবন্ধ পঢ়ক"
+  },
+  "quizzes": {
+    "questions": "{{count}} প্ৰশ্ন",
+    "duration": "{{minutes}} মিনিট",
+    "difficulty": "কঠিনতা",
+    "startQuiz": "কুইজ আৰম্ভ কৰক",
+    "retakeQuiz": "কুইজ পুনৰ লওক",
+    "viewResults": "ফলাফল চাওক",
+    "status": {
+      "notStarted": "আৰম্ভ কৰা হোৱা নাই",
+      "inProgress": "চলি আছে",
+      "completed": "সম্পূৰ্ণ",
+      "passed": "উত্তীৰ্ণ",
+      "failed": "বিফল"
+    },
+    "yourScore": "আপোনাৰ স্ক'ৰ: {{score}}%",
+    "passingScore": "উত্তীৰ্ণ স্ক'ৰ: {{score}}%",
+    "lastAttempt": "শেষ প্ৰচেষ্টা: {{date}}",
+    "bestScore": "সৰ্বশ্ৰেষ্ঠ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "বিষয়বস্তু ল'ড কৰিবলৈ বিফল। অনুগ্ৰহ কৰি পাছত পুনৰ চেষ্টা কৰক।",
+    "retry": "পুনৰ চেষ্টা কৰক"
+  }
+}

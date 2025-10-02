@@ -1,0 +1,50 @@
+{
+  "welcome": "Welcome back, {{name}}!",
+  "subtitle": "Here's an overview of your learning progress.",
+  "loading": "Loading...",
+  "statistics": {
+    "articlesRead": "Articles Read",
+    "coursesCompleted": "Courses Completed",
+    "certificatesEarned": "Certificates Earned",
+    "overallProgress": "Overall Progress"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "browseMaterials": "Browse Materials",
+    "takeQuiz": "Take Quiz",
+    "updateProfile": "Update Profile",
+    "checkDBT": "Check DBT"
+  },
+  "quizPerformance": {
+    "title": "Quiz Performance",
+    "viewAll": "View All",
+    "completed": "Completed",
+    "passed": "Passed",
+    "avgScore": "Avg Score",
+    "excellent": "Excellent! Keep it up!"
+  },
+  "progressChecklist": {
+    "title": "Progress Checklist",
+    "completeProfile": "Complete Profile",
+    "linkAadhaar": "Link Aadhaar",
+    "addBankDetails": "Add Bank Details",
+    "readDBTGuide": "Read DBT Guide",
+    "takeQuiz": "Take Quiz",
+    "complete": "Complete"
+  },
+  "profileCard": {
+    "profileCompletion": "Profile Completion",
+    "editProfile": "Edit Profile"
+  },
+  "notices": {
+    "title": "Important Notices",
+    "scholarshipDeadline": "Scholarship applications close on Oct 31, 2025",
+    "aadhaarLinking": "Complete Aadhaar linking for DBT",
+    "bankGuide": "New bank linking guide available"
+  },
+  "helpCard": {
+    "title": "Need Help?",
+    "subtitle": "Our support team is here to assist you.",
+    "contactSupport": "Contact Support"
+  }
+}

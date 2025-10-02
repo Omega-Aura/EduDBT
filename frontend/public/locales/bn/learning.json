@@ -1,0 +1,65 @@
+{
+  "title": "শিক্ষা কেন্দ্র",
+  "loading": "লোড হচ্ছে...",
+  "tabs": {
+    "articles": "নিবন্ধ",
+    "quizzes": "কুইজ"
+  },
+  "search": {
+    "placeholder": "নিবন্ধ, কুইজ বা বিষয় অনুসন্ধান করুন...",
+    "noResults": "কোন ফলাফল পাওয়া যায়নি",
+    "tryDifferent": "ভিন্ন কীওয়ার্ড চেষ্টা করুন বা বিভাগ দ্বারা ব্রাউজ করুন"
+  },
+  "filters": {
+    "category": "বিভাগ",
+    "difficulty": "অসুবিধা",
+    "sortBy": "সাজান",
+    "newest": "নতুনতম প্রথম",
+    "oldest": "পুরাতনতম প্রথম",
+    "popular": "সবচেয়ে জনপ্রিয়"
+  },
+  "categories": {
+    "all": "সব বিভাগ",
+    "aadhaarBasics": "আধার মৌলিক বিষয়",
+    "dbtInfo": "ডিবিটি তথ্য",
+    "scholarshipGuide": "বৃত্তি গাইড",
+    "bankLinking": "ব্যাঙ্ক লিঙ্কিং",
+    "troubleshooting": "সমস্যা সমাধান",
+    "newsUpdates": "সংবাদ ও আপডেট"
+  },
+  "difficulties": {
+    "all": "সব স্তর",
+    "beginner": "শুরুর স্তর",
+    "intermediate": "মধ্যম",
+    "advanced": "উন্নত"
+  },
+  "articles": {
+    "readTime": "{{minutes}} মিনিট পড়ুন",
+    "views": "{{count}} বার দেখা হয়েছে",
+    "readMore": "আরও পড়ুন",
+    "readArticle": "নিবন্ধ পড়ুন"
+  },
+  "quizzes": {
+    "questions": "{{count}} প্রশ্ন",
+    "duration": "{{minutes}} মিনিট",
+    "difficulty": "অসুবিধা",
+    "startQuiz": "কুইজ শুরু করুন",
+    "retakeQuiz": "কুইজ পুনরায় নিন",
+    "viewResults": "ফলাফল দেখুন",
+    "status": {
+      "notStarted": "শুরু হয়নি",
+      "inProgress": "চলমান",
+      "completed": "সম্পন্ন",
+      "passed": "উত্তীর্ণ",
+      "failed": "অনুত্তীর্ণ"
+    },
+    "yourScore": "আপনার স্কোর: {{score}}%",
+    "passingScore": "উত্তীর্ণ স্কোর: {{score}}%",
+    "lastAttempt": "শেষ প্রচেষ্টা: {{date}}",
+    "bestScore": "সেরা: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "কন্টেন্ট লোড করতে ব্যর্থ। পরে আবার চেষ্টা করুন।",
+    "retry": "পুনরায় চেষ্টা করুন"
+  }
+}

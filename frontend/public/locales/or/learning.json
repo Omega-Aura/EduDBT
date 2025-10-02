@@ -1,0 +1,65 @@
+{
+  "title": "ଶିକ୍ଷଣ କେନ୍ଦ୍ର",
+  "loading": "ଲୋଡ୍ ହେଉଛି...",
+  "tabs": {
+    "articles": "ପ୍ରବନ୍ଧ",
+    "quizzes": "କୁଇଜ୍"
+  },
+  "search": {
+    "placeholder": "ପ୍ରବନ୍ଧ, କୁଇଜ୍ କିମ୍ବା ବିଷୟ ଖୋଜନ୍ତୁ...",
+    "noResults": "କୌଣସି ଫଳାଫଳ ମିଳିଲା ନାହିଁ",
+    "tryDifferent": "ବିଭିନ୍ନ କୀୱାର୍ଡ ଚେଷ୍ଟା କରନ୍ତୁ କିମ୍ବା ବିଭାଗ ଦ୍ୱାରା ବ୍ରାଉଜ କରନ୍ତୁ"
+  },
+  "filters": {
+    "category": "ବିଭାଗ",
+    "difficulty": "କଠିନତା",
+    "sortBy": "ସଜାଡନ୍ତୁ",
+    "newest": "ନୂତନତମ ପ୍ରଥମ",
+    "oldest": "ପ୍ରାଚୀନତମ ପ୍ରଥମ",
+    "popular": "ସର୍ବାଧିକ ଲୋକପ୍ରିୟ"
+  },
+  "categories": {
+    "all": "ସମସ୍ତ ବିଭାଗ",
+    "aadhaarBasics": "ଆଧାର ମୌଳିକ ବିଷୟ",
+    "dbtInfo": "DBT ସୂଚନା",
+    "scholarshipGuide": "ଛାତ୍ରବୃତ୍ତି ଗାଇଡ",
+    "bankLinking": "ବ୍ୟାଙ୍କ ଲିଙ୍କିଂ",
+    "troubleshooting": "ସମସ୍ୟା ସମାଧାନ",
+    "newsUpdates": "ସମାଚାର ଏବଂ ଅପଡେଟ"
+  },
+  "difficulties": {
+    "all": "ସମସ୍ତ ସ୍ତର",
+    "beginner": "ଆରମ୍ଭକାରୀ",
+    "intermediate": "ମଧ୍ୟବର୍ତ୍ତୀ",
+    "advanced": "ଉନ୍ନତ"
+  },
+  "articles": {
+    "readTime": "{{minutes}} ମିନିଟ ପଢନ୍ତୁ",
+    "views": "{{count}} ଥର ଦେଖାଯାଇଛି",
+    "readMore": "ଅଧିକ ପଢନ୍ତୁ",
+    "readArticle": "ପ୍ରବନ୍ଧ ପଢନ୍ତୁ"
+  },
+  "quizzes": {
+    "questions": "{{count}} ପ୍ରଶ୍ନ",
+    "duration": "{{minutes}} ମିନିଟ",
+    "difficulty": "କଠିନତା",
+    "startQuiz": "କୁଇଜ୍ ଆରମ୍ଭ କରନ୍ତୁ",
+    "retakeQuiz": "କୁଇଜ୍ ପୁନଃ ନିଅନ୍ତୁ",
+    "viewResults": "ଫଳାଫଳ ଦେଖନ୍ତୁ",
+    "status": {
+      "notStarted": "ଆରମ୍ଭ ହୋଇନାହିଁ",
+      "inProgress": "ପ୍ରଗତିରେ",
+      "completed": "ସମାପ୍ତ",
+      "passed": "ଉତ୍ତୀର୍ଣ୍ଣ",
+      "failed": "ବିଫଳ"
+    },
+    "yourScore": "ଆପଣଙ୍କର ସ୍କୋର: {{score}}%",
+    "passingScore": "ପାସିଂ ସ୍କୋର: {{score}}%",
+    "lastAttempt": "ଶେଷ ପ୍ରଚେଷ୍ଟା: {{date}}",
+    "bestScore": "ସର୍ବୋତ୍ତମ: {{score}}%"
+  },
+  "error": {
+    "loadFailed": "ବିଷୟବସ୍ତୁ ଲୋଡ କରିବାରେ ବିଫଳ। ଦୟାକରି ପରେ ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ।",
+    "retry": "ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ"
+  }
+}

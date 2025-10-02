@@ -1,0 +1,50 @@
+{
+  "welcome": "ફરી સ્વાગત છે, {{name}}!",
+  "subtitle": "અહીં તમારી શીખવાની પ્રગતિની ઝલક છે.",
+  "loading": "લોડ થઈ રહ્યું છે...",
+  "statistics": {
+    "articlesRead": "વાંચેલા લેખો",
+    "coursesCompleted": "પૂર્ણ કરેલ કોર્સ",
+    "certificatesEarned": "મેળવેલ પ્રમાણપત્રો",
+    "overallProgress": "એકંદર પ્રગતિ"
+  },
+  "quickActions": {
+    "title": "ઝડપી ક્રિયાઓ",
+    "browseMaterials": "સામગ્રી બ્રાઉઝ કરો",
+    "takeQuiz": "ક્વિઝ લો",
+    "updateProfile": "પ્રોફાઇલ અપડેટ કરો",
+    "checkDBT": "DBT તપાસો"
+  },
+  "quizPerformance": {
+    "title": "ક્વિઝ પ્રદર્શન",
+    "viewAll": "બધું જુઓ",
+    "completed": "પૂર્ણ થયું",
+    "passed": "પાસ થયા",
+    "avgScore": "સરેરાશ સ્કોર",
+    "excellent": "ઉત્કૃષ્ટ! આવું જ ચાલુ રાખો!"
+  },
+  "progressChecklist": {
+    "title": "પ્રગતિ ચેકલિસ્ટ",
+    "completeProfile": "પ્રોફાઇલ પૂર્ણ કરો",
+    "linkAadhaar": "આધાર લિંક કરો",
+    "addBankDetails": "બેંક વિગતો ઉમેરો",
+    "readDBTGuide": "DBT માર્ગદર્શિકા વાંચો",
+    "takeQuiz": "ક્વિઝ લો",
+    "complete": "પૂર્ણ"
+  },
+  "profileCard": {
+    "profileCompletion": "પ્રોફાઇલ પૂર્ણતા",
+    "editProfile": "પ્રોફાઇલ સંપાદિત કરો"
+  },
+  "notices": {
+    "title": "મહત્વપૂર્ણ સૂચનાઓ",
+    "scholarshipDeadline": "શિષ્યવૃત્તિ અરજીઓ 31 ઓક્ટોબર, 2025ના રોજ બંધ થશે",
+    "aadhaarLinking": "DBT માટે આધાર લિંકિંગ પૂર્ણ કરો",
+    "bankGuide": "નવી બેંક લિંકિંગ માર્ગદર્શિકા ઉપલબ્ધ"
+  },
+  "helpCard": {
+    "title": "મદદ જોઈએ છે?",
+    "subtitle": "અમારી સપોર્ટ ટીમ તમને મદદ કરવા માટે અહીં છે.",
+    "contactSupport": "સપોર્ટનો સંપર્ક કરો"
+  }
+}
