@@ -30,10 +30,10 @@
 ```
 NODE_ENV=production
 PORT=5000
-MONGODB_URI=mongodb+srv://Admin:12345qwert@cluster0.tvzi0xg.mongodb.net/aadhaar-dbt?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=mongodb+srv://url
 JWT_SECRET=your-super-secret-jwt-key-change-in-production-32-chars-min
 JWT_EXPIRES_IN=24h
-GEMINI_API_KEY=AIzaSyBrUJkGYK5uEeuulBbhpS53gZdAuEpFhO8
+GEMINI_API_KEY=Your_Secret_Key
 CORS_ORIGIN=http://localhost:3000
 FRONTEND_URL=https://your-frontend-url.onrender.com
 RATE_LIMIT_WINDOW_MS=900000
