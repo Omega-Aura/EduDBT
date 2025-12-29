@@ -19,6 +19,7 @@ import QuizHub from './pages/QuizHub';
 import QuizTake from './pages/QuizTake';
 import QuizResults from './pages/QuizResults';
 import Help from './pages/Help';
+import AdminPanel from './pages/AdminPanel';
 // Import Bootstrap CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -88,6 +89,11 @@ function App() {
               <Route path="/quiz/results/:attemptId" element={
                 <ProtectedRoute>
                   <QuizResults />
+                </ProtectedRoute>
+              } />
+              <Route path="/admin" element={
+                <ProtectedRoute>
+                  <AdminPanel />
                 </ProtectedRoute>
               } />
               

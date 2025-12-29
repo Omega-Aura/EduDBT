@@ -48,6 +48,12 @@ const Header = () => {
                   <FaTrophy className="me-1" />
                   {t('navigation:quizzes')}
                 </Nav.Link>
+                {user?.role === 'admin' && (
+                  <Nav.Link as={Link} to="/admin" className="text-warning">
+                    <FaUser className="me-1" />
+                    Admin Panel
+                  </Nav.Link>
+                )}
               </>
             ) : (
               <>
