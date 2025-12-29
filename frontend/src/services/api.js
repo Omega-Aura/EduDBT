@@ -2,6 +2,13 @@ import axios from 'axios';
 
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
+// Debug log to verify API URL in production
+console.log('🔌 API Configuration:', {
+  apiUrl: API_BASE_URL,
+  environment: process.env.REACT_APP_ENVIRONMENT || 'development',
+  hasEnvVar: !!process.env.REACT_APP_API_URL
+});
+
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
   timeout: 10000,
