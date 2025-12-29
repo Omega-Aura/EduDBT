@@ -28,6 +28,8 @@ app.use(helmet());
 const allowedOrigins = [
   'http://localhost:3000',
   'http://localhost:3001',
+  'https://edudbt.aritra.studio',
+  'https://edudbt-sih-1.onrender.com',
   process.env.CORS_ORIGIN,
   process.env.FRONTEND_URL
 ].filter(origin => origin && origin.trim()); // Remove empty/whitespace strings

@@ -162,7 +162,7 @@ const loginUser = async (req, res) => {
 const getCurrentUser = async (req, res) => {
   try {
     const user = await User.findById(req.user._id);
-    
+
     res.json({
       success: true,
       data: { user }
@@ -215,7 +215,7 @@ const forgotPassword = async (req, res) => {
     // 1. Generate a password reset token
     // 2. Save it to the database with expiration
     // 3. Send email with reset link
-    
+
     // For now, just send a success response
     res.json({
       success: true,
